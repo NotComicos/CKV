@@ -1,0 +1,5 @@
+owner = JIB
+controller = JIB
+add_core = JIB
+trade_goods = iron
+life_rating = 35

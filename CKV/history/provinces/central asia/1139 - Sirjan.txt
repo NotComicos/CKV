@@ -1,0 +1,5 @@
+owner = BUY
+controller = BUY
+add_core = BUY
+trade_goods = iron
+life_rating = 35

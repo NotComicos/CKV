@@ -1,0 +1,5 @@
+owner = JIB
+controller = JIB
+add_core = JIB
+trade_goods = cotton
+life_rating = 35

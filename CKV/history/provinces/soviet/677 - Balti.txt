@@ -1,0 +1,5 @@
+owner = PCH
+controller = PCH
+add_core = PCH
+trade_goods = fruit
+life_rating = 35

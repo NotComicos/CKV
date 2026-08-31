@@ -1,0 +1,6 @@
+owner = NWT
+controller = NWT
+add_core = NWT
+trade_goods = fish
+life_rating = 35
+

@@ -1,0 +1,5 @@
+owner = SLL
+controller = SLL
+add_core = SLL
+trade_goods = timber
+life_rating = 35

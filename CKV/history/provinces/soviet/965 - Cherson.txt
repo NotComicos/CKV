@@ -1,0 +1,6 @@
+owner = PCH
+controller = PCH
+add_core = PCH
+trade_goods = fish
+life_rating = 35
+naval_base = 1

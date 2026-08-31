@@ -1,0 +1,5 @@
+owner = UMA
+controller = UMA
+add_core = UMA
+trade_goods = fruit
+life_rating = 35

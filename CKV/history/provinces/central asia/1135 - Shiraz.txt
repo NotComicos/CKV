@@ -1,0 +1,5 @@
+owner = BUY
+controller = BUY
+add_core = BUY
+trade_goods = opium
+life_rating = 35
