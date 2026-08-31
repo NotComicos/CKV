@@ -1,8 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = POL
-add_core = BYE
-add_core = PLC
+owner=W11
+controller=W11
+add_core=BYE
+add_core=W11
 trade_goods = grain
 life_rating = 35
+terrain = woods

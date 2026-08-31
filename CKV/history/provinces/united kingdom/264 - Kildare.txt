@@ -1,6 +1,8 @@
-owner = IRE
-controller = IRE
-add_core = IRE
+owner=X42
+controller=FLY
+add_core=ENG
+add_core=IRE
+add_core=X42
 trade_goods = cattle
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+terrain = hills

@@ -1,5 +1,8 @@
-owner = BYZ
-controller = BYZ
-add_core = BYZ
+owner=W10
+controller=W10
+add_core=ARM
+add_core=W10
 trade_goods = iron
 life_rating = 35
+terrain = hills
+fort = 2

@@ -1,10 +1,6 @@
-army = {
-	name = "Army of Transvaal"
-	location = 2105
-	regiment = {
-		name= "1.Transvaal Commando"
-		type = infantry
-		home = 2105
-	}
-}
+#Sphere of Influence
 
+
+#Leaders
+
+#Armies

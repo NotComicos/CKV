@@ -1,6 +1,8 @@
-owner = XBI
-controller = XBI
-add_core = CHI
-add_core = XBI
+owner=TNG
+controller=TNG
+add_core=KHA
+add_core=MGL
+add_core=TNG
 trade_goods = grain
 life_rating = 32
+terrain = hills

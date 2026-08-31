@@ -1,7 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = BUN
-add_core = HND
+owner=X79
+controller=X79
+add_core=HND
+add_core=X79
 trade_goods = grain
 life_rating = 32
-colonial = 2
+terrain = farmlands

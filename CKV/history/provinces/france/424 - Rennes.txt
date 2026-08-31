@@ -1,6 +1,7 @@
-owner = BRI
-controller = BRI
-add_core = BRI
+owner=BRT
+controller=BRT
+add_core=BRT
+add_core=FRA
 trade_goods = grain
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+terrain = hills

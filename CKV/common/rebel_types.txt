@@ -18,7 +18,7 @@ reactionary_rebels = {
 	area = nation 					# Stays within the nation
 	break_alliance_on_win = yes
 	
-	# <this is the governement in the country> = <this is what the rebels want>
+	# <this is the government in the country> = <this is what the rebels want>
 	government = {
 		proletarian_dictatorship = presidential_dictatorship
 		presidential_dictatorship = absolute_monarchy
@@ -49,7 +49,7 @@ reactionary_rebels = {
 	
 	occupation_mult = 1.0			# The amount of strength this rebel gains from taking provinces
 
-	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
+	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the factions strength
 	will_rise = 
 	{
 		factor = 0.5
@@ -217,7 +217,7 @@ fascist_rebels = {
 	area = nation 					# Stays within the nation
 	break_alliance_on_win = yes
 	
-	# <this is the governement in the country> = <this is what the rebels want>
+	# <this is the government in the country> = <this is what the rebels want>
 	government = {
 		proletarian_dictatorship = fascist_dictatorship
 		presidential_dictatorship = fascist_dictatorship
@@ -248,7 +248,7 @@ fascist_rebels = {
 	
 	occupation_mult = 1.0			# The amount of strength this rebel gains from taking provinces	
 
-	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
+	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the factions strength
 	will_rise = 
 	{
 		factor = 0.5
@@ -418,7 +418,7 @@ communist_rebels = {
 	area = nation 					# Stays within the nation
 	break_alliance_on_win = yes
 	
-	# <this is the governement in the country> = <this is what the rebels want>
+	# <this is the government in the country> = <this is what the rebels want>
 	government = {
 		proletarian_dictatorship = proletarian_dictatorship
 		presidential_dictatorship = proletarian_dictatorship
@@ -449,7 +449,7 @@ communist_rebels = {
 	
 	occupation_mult = 1.0			# The amount of strength this rebel gains from taking provinces	
 
-	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
+	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the factions strength
 	will_rise = 
 	{
 		factor = 0.5
@@ -630,7 +630,7 @@ anarcho_liberal_rebels = {
 	area = nation 					# Stays within the nation
 	break_alliance_on_win = yes
 	
-	# <this is the governement in the country> = <this is what the rebels want>
+	# <this is the government in the country> = <this is what the rebels want>
 	government = {
 		proletarian_dictatorship = bourgeois_dictatorship
 		presidential_dictatorship = bourgeois_dictatorship
@@ -661,7 +661,7 @@ anarcho_liberal_rebels = {
 	
 	occupation_mult = 1.0			# The amount of strength this rebel gains from taking provinces	
 
-	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
+	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the factions strength
 	will_rise = 
 	{
 		factor = 0.5
@@ -825,7 +825,7 @@ nationalist_rebels = {
 	area = nation_culture 				# Stays within provinces of their culture
 	break_alliance_on_win = no
 	
-	# <this is the governement in the country> = <this is what the rebels want>
+	# <this is the government in the country> = <this is what the rebels want>
 	government = {
 		proletarian_dictatorship = proletarian_dictatorship
 		presidential_dictatorship = presidential_dictatorship
@@ -1041,7 +1041,7 @@ pan_nationalist_rebels = {
 	area = culture_group
 	break_alliance_on_win = no
 	
-	# <this is the governement in the country> = <this is what the rebels want>
+	# <this is the government in the country> = <this is what the rebels want>
 	government = {
 		proletarian_dictatorship = proletarian_dictatorship
 		presidential_dictatorship = presidential_dictatorship
@@ -1071,7 +1071,7 @@ pan_nationalist_rebels = {
 	
 	occupation_mult = 3.0			# The amount of strength this rebel gains from taking provinces
 
-	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
+	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the factions strength
 	will_rise = 
 	{
 		factor = 0.5
@@ -1110,6 +1110,45 @@ pan_nationalist_rebels = {
 			factor = 1.5
 			country = {
 				has_country_modifier = global_liberal_agitation
+			}
+		}
+		#Converter stuff
+		modifier = {
+			factor = 0
+			country = {
+				tag = SWI #Switzerland
+			}
+		}
+		modifier = {
+			factor = 0
+			culture = irish #Ireland
+		}
+		modifier = {
+			factor = 0
+			country = {
+				tag = POR #Portugal
+			}
+		}
+		modifier = {
+			factor = 0
+			culture = andalusian #Andalusia/Granada should not become Arabia
+		}
+		modifier = {
+			factor = 0
+			country = {
+				capital_scope = { continent = north_america }
+			}
+		}
+		modifier = {
+			factor = 0
+			country = {
+				capital_scope = { continent = south_america }
+			}
+		}
+		modifier = {
+			factor = 0
+			country = {
+				capital_scope = { continent = oceania }
 			}
 		}
 	}
@@ -1275,7 +1314,7 @@ carlist_rebels = {
 	area = nation 					# Stays within the nation
 	break_alliance_on_win = yes
 	
-	# <this is the governement in the country> = <this is what the rebels want>
+	# <this is the government in the country> = <this is what the rebels want>
 	government = {
 		proletarian_dictatorship = absolute_monarchy
 		presidential_dictatorship = absolute_monarchy
@@ -1306,7 +1345,7 @@ carlist_rebels = {
 	
 	occupation_mult = 1.0			# The amount of strength this rebel gains from taking provinces	
 
-	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
+	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the factions strength
 	will_rise = 
 	{
 		factor = 0.5
@@ -1447,7 +1486,7 @@ boxer_rebels = {
 	area = nation 					# Stays within the nation
 	
 	
-	# <this is the governement in the country> = <this is what the rebels want>
+	# <this is the government in the country> = <this is what the rebels want>
 	government = {
 		proletarian_dictatorship = absolute_monarchy
 		presidential_dictatorship = absolute_monarchy
@@ -1478,7 +1517,7 @@ boxer_rebels = {
 	
 	occupation_mult = 1.0			# The amount of strength this rebel gains from taking provinces	
 
-	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
+	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the factions strength
 	will_rise = 
 	{
 		factor = 0.5
@@ -1671,7 +1710,7 @@ red_shirts = {
 	
 	area = nation
 	
-	# <this is the governement in the country> = <this is what the rebels want>
+	# <this is the government in the country> = <this is what the rebels want>
 	government = {
 		proletarian_dictatorship = proletarian_dictatorship
 		presidential_dictatorship = presidential_dictatorship
@@ -1701,13 +1740,39 @@ red_shirts = {
 	
 	occupation_mult = 3.0			# The amount of strength this rebel gains from taking provinces	
 
-	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
+	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the factions strength
 	will_rise = 
 	{
 		factor = 0.5
 		
 		modifier = {
 			NOT = { any_greater_power = { nationalism_n_imperialism = 1 } }
+			factor = 0
+		}
+		modifier = {
+			factor = 0
+			country = {
+				capital_scope = { continent = north_america }
+			}
+		}
+		modifier = {
+			factor = 0
+			country = {
+				capital_scope = { continent = south_america }
+			}
+		}
+		modifier = {
+			factor = 0
+			country = {
+				capital_scope = { continent = oceania }
+			}
+		}
+		
+		modifier = {
+			OR = {
+				exists = ITA
+				exists = ITP
+			}
 			factor = 0
 		}
 		
@@ -1763,7 +1828,7 @@ red_shirts = {
 			country = {
 				OR = {
 					is_greater_power = yes
-					tag = SAR
+					owns = 724 #Quarto di Genova, whence they sailed
 					is_cultural_union = THIS
 				}
 			}
@@ -1784,6 +1849,7 @@ red_shirts = {
 			location = {
 				NOT = {
 					is_core = ITA
+					is_core = ITP
 				}
 			}
 		}
@@ -1878,8 +1944,13 @@ red_shirts = {
 		NOT = {
 			is_cultural_union = THIS
 		}
-		ITA = {
-			exists = no
+		OR = {
+			ITA = {
+				exists = no
+			}
+			ITP = {
+				exists = no
+			}
 		}
 		capital_scope = {
 			controlled_by = REB
@@ -1893,7 +1964,8 @@ red_shirts = {
 				is_culture_group = THIS
 				OR = {
 					is_greater_power = yes
-					tag = SAR
+					owns = 724 #Quarto di Genova
+					NOT = { tag = PAP }
 				}
 				NOT = {
 					is_cultural_union = yes
@@ -1914,7 +1986,7 @@ indian_sepoys = {
 	
 	area = culture_group
 	
-	# <this is the governement in the country> = <this is what the rebels want>
+	# <this is the government in the country> = <this is what the rebels want>
 	government = {
 		proletarian_dictatorship = proletarian_dictatorship
 		presidential_dictatorship = presidential_dictatorship
@@ -1944,7 +2016,7 @@ indian_sepoys = {
 	
 	occupation_mult = 3.0			# The amount of strength this rebel gains from taking provinces	
 
-	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
+	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the factions strength
 	will_rise = 
 	{
 		factor = 0.5
@@ -1953,6 +2025,24 @@ indian_sepoys = {
 			NOT = { any_greater_power = { nationalism_n_imperialism = 1 } }
 			factor = 0
 		}	
+		modifier = {
+			factor = 0
+			country = {
+				capital_scope = { continent = north_america }
+			}
+		}
+		modifier = {
+			factor = 0
+			country = {
+				capital_scope = { continent = south_america }
+			}
+		}
+		modifier = {
+			factor = 0
+			country = {
+				capital_scope = { continent = oceania }
+			}
+		}
 		
 		modifier = {
 			war = yes
@@ -2130,7 +2220,7 @@ liberal_rebels = {
 	area = nation 					# Stays within the nation
 	break_alliance_on_win = yes
 	
-	# <this is the governement in the country> = <this is what the rebels want>
+	# <this is the government in the country> = <this is what the rebels want>
 	government = {
 		proletarian_dictatorship = democracy
 		presidential_dictatorship = democracy
@@ -2161,7 +2251,7 @@ liberal_rebels = {
 	
 	occupation_mult = 1.0			# The amount of strength this rebel gains from taking provinces	
 
-	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
+	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the factions strength
 	will_rise = 
 	{
 		factor = 0.5
@@ -2335,7 +2425,7 @@ unciv_reactionary_rebels = {
 	area = nation 					# Stays within the nation
 	break_alliance_on_win = yes
 	
-	# <this is the governement in the country> = <this is what the rebels want>
+	# <this is the government in the country> = <this is what the rebels want>
 	government = {
 		proletarian_dictatorship = absolute_monarchy
 		presidential_dictatorship = absolute_monarchy
@@ -2366,7 +2456,7 @@ unciv_reactionary_rebels = {
 	
 	occupation_mult = 1.0			# The amount of strength this rebel gains from taking provinces	
 
-	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
+	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the factions strength
 	will_rise = 
 	{
 		factor = 1
@@ -2521,7 +2611,7 @@ sioux_nation = {
 	
 	area = culture_group
 	
-	# <this is the governement in the country> = <this is what the rebels want>
+	# <this is the government in the country> = <this is what the rebels want>
 	government = {
 		proletarian_dictatorship = proletarian_dictatorship
 		presidential_dictatorship = presidential_dictatorship
@@ -2551,7 +2641,7 @@ sioux_nation = {
 	
 	occupation_mult = 1.0			# The amount of strength this rebel gains from taking provinces	
 
-	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
+	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the factions strength
 
 	will_rise = 
 	{
@@ -2642,7 +2732,7 @@ apache = {
 	
 	area = culture_group
 	
-	# <this is the governement in the country> = <this is what the rebels want>
+	# <this is the government in the country> = <this is what the rebels want>
 	government = {
 		proletarian_dictatorship = proletarian_dictatorship
 		presidential_dictatorship = presidential_dictatorship
@@ -2672,7 +2762,7 @@ apache = {
 	
 	occupation_mult = 1.0			# The amount of strength this rebel gains from taking provinces	
 
-	# triggers a general rising, modifier will be multiplied with the countrys army strength and compared to the factions strenght
+	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the factions strength
 
 	will_rise = 
 	{
@@ -2760,4 +2850,246 @@ apache = {
 	
 	#demands_enforced_effect = {
 	#}
+}
+#NNM/PDM Rebel Type
+###################################
+# Christino Rebels
+###################################
+christino_rebels = {
+	icon = 16
+		
+	area = nation 					# Stays within the nation
+	break_alliance_on_win = no
+	
+	# <this is the government in the country> = <this is what the rebels want>
+	government = {
+		proletarian_dictatorship = hms_government
+		presidential_dictatorship = hms_government
+		bourgeois_dictatorship = hms_government
+		fascist_dictatorship = hms_government
+		absolute_monarchy = hms_government
+		prussian_constitutionalism = hms_government
+		hms_government = hms_government
+		democracy = hms_government
+		theocracy = theocracy
+	}
+	
+	
+	defection = none				
+	independence = none				# Does not strive for independence
+	defect_delay = 18
+	
+	ideology = liberal
+	
+	allow_all_cultures = yes
+	allow_all_religions = yes
+	allow_all_ideologies = yes
+	
+	resilient = yes					
+	reinforcing = yes				
+	general = yes					
+	smart = yes
+	unit_transfer = no				# Units do not remain after enforcing demands.
+	
+	occupation_mult = 1.0			# The amount of strength this rebel gains from taking provinces	
+
+	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the factions strength
+	will_rise = {
+		factor = 0.5
+		modifier = {
+			war = yes
+			factor = 0.8
+		}
+		modifier = {
+			war_exhaustion = 4
+			factor = 0.95
+		}
+		modifier = {
+			war_exhaustion = 6
+			factor = 0.95
+		}
+		modifier = {
+			war_exhaustion = 8
+			factor = 0.95
+		}
+	}
+	
+	# The rebel type with the highest modifier for this pop gets picked
+	spawn_chance = {
+		factor = 1.1
+		
+		modifier = {
+			factor = 0
+			country = { 
+				NOT = { tag = SPC }
+			}
+		}
+		modifier = {
+			factor = 2
+			location = {
+				has_province_modifier = christino_sympathies
+			}
+		}
+		modifier = {
+			factor = 0
+			country = { 
+				NOT = {
+					OR = {
+						government = hms_government
+						government = prussian_constitutionalism
+						government = absolute_monarchy
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 1.3
+			pop_majority_ideology = liberal
+		}
+		modifier = {
+			factor = 1.2
+			pop_majority_ideology = anarcho_liberal
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				culture = basque
+				culture = catalan
+			}
+		}
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					pop_majority_ideology = liberal
+					pop_majority_ideology = anarcho_liberal
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_culture_group = iberian }
+		}
+		modifier = {
+			factor = 0.8
+			is_primary_culture = no
+			is_accepted_culture = no
+		}
+		modifier = {
+			factor = 0
+			country = { has_global_flag = carlists_pacified }
+		}
+		modifier = {
+			factor = 0
+			NOT = { has_pop_religion = catholic }
+		}
+		modifier = {
+			factor = 0
+			location = {
+				OR = {
+					NOT = { is_core = SPC }
+					is_capital = yes
+				}
+			}
+		}
+		modifier = {
+			factor = 1.015
+			country = { plurality = 70 }
+		}
+	}
+ 
+ 	#This is checked for EACH province in the Area of Operations
+	movement_evaluation = {
+		factor = 1
+		modifier = {
+			factor = 0.1
+			units_in_province = 1
+			NOT = { is_capital = yes }
+		}
+		modifier = {
+			factor = 0.001
+			controlled_by = REB
+			NOT = { is_capital = yes }
+		}
+		modifier = {
+			factor = 1.5
+			average_militancy = 4
+		}
+		modifier = {
+			factor = 1.5
+			average_militancy = 6
+		}
+		modifier = {
+			factor = 1.5
+			average_militancy = 8
+		}
+		modifier = {
+			factor = 5.0
+			is_capital = yes
+		}
+	}
+	
+ 	# Province Scope
+ 	siege_won_trigger = {
+		NOT = { has_province_modifier = war_torn }
+ 	}
+	
+	siege_won_effect = {
+		add_province_modifier = {
+			name = war_torn
+			duration = 365
+		}
+		any_pop = {
+			ideology = {
+				value = liberal
+				factor = 0.05
+			}
+		}
+		owner = { war_exhaustion = 2.5 }
+	}
+
+	# Country scope
+	demands_enforced_trigger = {
+		OR = {
+			capital_scope = {
+				controlled_by = REB
+				province_control_days = 90
+			}
+			NOT = {
+				any_owned_province = {
+					is_colonial = no
+					controlled_by = THIS
+				}
+			}
+		}
+	}
+	
+	demands_enforced_effect = {
+		SPC = {
+			all_core = {
+				remove_core = SPC
+				add_core = SPA
+			}
+		}
+		clr_country_flag = theocratic_government
+		clr_country_flag = communist_gov
+		clr_country_flag = absolute_monarchy_gov
+		clr_country_flag = semi_constitutional_monarchy_gov
+		clr_country_flag = constitutional_monarchy_gov
+		clr_country_flag = democracy_gov
+		clr_country_flag = presidential_dictatorship_gov
+		clr_country_flag = fascist_gov
+		clr_country_flag = anarcho_liberal_gov
+		change_tag = SPA
+		ruling_party_ideology = liberal
+		political_reform = wealth_voting
+		political_reform = state_equal_weight
+		political_reform = yes_meeting
+		political_reform = censored_press
+		political_reform = no_trade_unions
+		political_reform = non_secret_ballots
+		prestige_factor = -0.25	
+		plurality = -25
+		country_event = 37716
+	}
 }

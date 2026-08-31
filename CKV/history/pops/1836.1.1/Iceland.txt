@@ -1,28 +1,51 @@
-#Iceland (56000)
-#Ruled by Denmark in 1836
-#Reykjavik (56000/14000 POPS)
 252 = {
-	bureaucrats = {
+	soldiers=
+	{
 		culture = icelandic
-		religion = protestant
-		size = 25
+		religion = animist
+		size= 126
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = icelandic
-		religion = protestant
-		size = 100
+		religion = animist
+		size= 504
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = icelandic
-		religion = protestant
-		size = 750
+		religion = animist
+		size= 82
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = icelandic
-		religion = protestant
-		size = 13125
+		religion = animist
+		size= 12
 	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = animist
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = animist
+		size= 11760
+	}
+
 }

@@ -1,5 +1,7 @@
-owner = KAL
-controller = KAL
-add_core = KAL
+owner=SIN
+controller=SIN
+add_core=HND
+add_core=SIN
 trade_goods = wool
 life_rating = 35
+terrain = hills

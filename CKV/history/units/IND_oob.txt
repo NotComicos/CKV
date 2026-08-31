@@ -1,23 +1,6 @@
-army = {
-	name = "Army of the Rao of Indore"
-	location = 1271
-	regiment = {
-		name= "1.Indore Contingent"
-		type = irregular
-		home = 1271
-	}
+#Sphere of Influence
 
-	regiment = {
-		name= "2.Indore Contingent"
-		type = irregular
-		home = 1271
-	}
 
-	regiment = {
-		name= "3.Indore Contingent"
-		type = irregular
-		home = 1271
-	}
+#Leaders
 
-}
-
+#Armies

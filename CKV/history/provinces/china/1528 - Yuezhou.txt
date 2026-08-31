@@ -1,7 +1,7 @@
-add_core = CHI
-add_core = GXI
+owner=TNG
+controller=TNG
+add_core=CHI
+add_core=TNG
 trade_goods = iron
 life_rating = 32
-
-owner = GXI
-controller = GXI
+terrain = hills

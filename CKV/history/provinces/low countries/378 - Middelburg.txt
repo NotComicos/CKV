@@ -1,5 +1,7 @@
-owner = BEL
-controller = BEL
-add_core = BEL
+owner=GER
+controller=GER
+add_core=GER
+add_core=NET
 trade_goods = fish
 life_rating = 35
+terrain = plains

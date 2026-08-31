@@ -1,5 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner=CNP
+controller=CNP
+add_core=CNP
 trade_goods = timber
-life_rating = 30
+life_rating = 30
+terrain = jungle

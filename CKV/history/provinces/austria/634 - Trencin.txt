@@ -1,5 +1,14 @@
-owner = BOH
-controller = BOH
-add_core = BOH
+owner=BOH
+controller=BOH
+add_core=BOH
+add_core=SLV
+add_core=WSF
 trade_goods = grain
 life_rating = 35
+terrain = hills
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

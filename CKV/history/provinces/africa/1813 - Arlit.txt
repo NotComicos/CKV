@@ -1,2 +1,7 @@
+owner=AYR
+controller=AYR
+add_core=AYR
 trade_goods = fruit
 life_rating = 10
+terrain = desert
+fort = 2

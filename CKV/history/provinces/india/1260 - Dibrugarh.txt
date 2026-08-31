@@ -1,6 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = HND
+owner=X33
+controller=KWN
+add_core=TIB
+add_core=X33
 trade_goods = tea
 life_rating = 32
-colonial = 2
+terrain = jungle

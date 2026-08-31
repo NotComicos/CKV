@@ -1,199 +1,151 @@
-#Himalaya Region (952000) #see Bhutan.txt and India.txt for balance of region
-#under the rule of Nepal in 1836  
-#Katmandu (540000/135000 POPS)   
 1326 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = nepali
-		religion = hindu
-		size = 2000
+		religion = theravada
+		size= 1166
 	}
 
-	bureaucrats = {
+	artisans=
+	{
 		culture = nepali
-		religion = hindu
-		size = 175
+		religion = theravada
+		size= 4665
 	}
 
-	officers = {
+	clergymen=
+	{
 		culture = nepali
-		religion = hindu
-		size = 225
+		religion = theravada
+		size= 758
 	}
 
-	clergymen = {
+	bureaucrats=
+	{
 		culture = nepali
-		religion = hindu
-		size = 1100
+		religion = theravada
+		size= 58
 	}
 
-	artisans = {
+	officers=
+	{
 		culture = nepali
-		religion = hindu
-		size = 4050
+		religion = theravada
+		size= 93
 	}
 
-	soldiers = {
+	aristocrats=
+	{
 		culture = nepali
-		religion = hindu
-		size = 7000
+		religion = theravada
+		size= 980
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = nepali
-		religion = hindu
-		size = 86250
+		religion = theravada
+		size= 108888
 	}
 
-	aristocrats = {
-		culture = tibetan
-		religion = gelugpa
-		size = 200
-	}
-
-	clergymen = {
-		culture = tibetan
-		religion = gelugpa
-		size = 100
-	}
-
-	artisans = {
-		culture = tibetan
-		religion = gelugpa
-		size = 475
-	}
-
-	soldiers = {
-		culture = tibetan
-		religion = gelugpa
-		size = 100
-	}
-
-	farmers = {
-		culture = tibetan
-		religion = gelugpa
-		size = 10125
-	}
-
-	aristocrats = {
-		culture = asian_minor
-		religion = animist
-		size = 400
-	}
-
-	clergymen = {
-		culture = asian_minor
-		religion = animist
-		size = 225
-	}
-
-	artisans = {
-		culture = asian_minor
-		religion = animist
-		size = 1050
-	}
-
-	soldiers = {
-		culture = asian_minor
-		religion = animist
-		size = 200
-	}
-
-	farmers = {
-		culture = asian_minor
-		religion = animist
-		size = 21125
-	}
 }
-#Jumla (412000/103000 POPS)   
 1327 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = nepali
-		religion = hindu
-		size = 900
+		religion = theravada
+		size= 741
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = nepali
-		religion = hindu
-		size = 450
+		religion = theravada
+		size= 2962
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = nepali
-		religion = hindu
-		size = 2300
+		religion = theravada
+		size= 481
 	}
 
-	soldiers = {
+	bureaucrats=
+	{
 		culture = nepali
-		religion = hindu
-		size = 1100
+		religion = theravada
+		size= 38
 	}
 
-	farmers = {
+	officers=
+	{
 		culture = nepali
-		religion = hindu
-		size = 49250
+		religion = theravada
+		size= 60
 	}
 
-	aristocrats = {
+	aristocrats=
+	{
+		culture = nepali
+		religion = theravada
+		size= 622
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = theravada
+		size= 69128
+	}
+
+	soldiers=
+	{
 		culture = tibetan
-		religion = gelugpa
-		size = 700
+		religion = tibet_bon
+		size= 212
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = tibetan
-		religion = gelugpa
-		size = 375
+		religion = tibet_bon
+		size= 846
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = tibetan
-		religion = gelugpa
-		size = 1850
+		religion = tibet_bon
+		size= 137
 	}
 
-	soldiers = {
+	bureaucrats=
+	{
 		culture = tibetan
-		religion = gelugpa
-		size = 350
+		religion = tibet_bon
+		size= 11
 	}
 
-	farmers = {
+	officers=
+	{
 		culture = tibetan
-		religion = gelugpa
-		size = 33725
+		religion = tibet_bon
+		size= 17
 	}
 
-	aristocrats = {
-		culture = asian_minor
-		religion = animist
-		size = 350
+	aristocrats=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 178
 	}
 
-	clergymen = {
-		culture = asian_minor
-		religion = animist
-		size = 200
+	farmers=
+	{
+		culture = tibetan
+		religion = tibet_bon
+		size= 19751
 	}
 
-	artisans = {
-		culture = asian_minor
-		religion = animist
-		size = 950
-	}
-
-	soldiers = {
-		culture = asian_minor
-		religion = animist
-		size = 200
-	}
-
-	farmers = {
-		culture = asian_minor
-		religion = animist
-		size = 18300
-	}
 }
-

@@ -1,6 +1,8 @@
-owner = NET
-controller = NET
-add_core = JAV
+owner=SUN
+controller=SUN
+add_core=JAV
+add_core=MJP
+add_core=SUN
 trade_goods = coffee
 life_rating = 30
-colonial = 2
+terrain = jungle

@@ -1,165 +1,153 @@
-#Cyprus Region (152000)
-#under the rule of Ottoman Empire in 1836  
-#Nicosia (64000/16000 POPS)
 855 = {
-	aristocrats = {
-		culture = turkish
-		religion = sunni
-		size = 275
-	}
-
-	bureaucrats = {
-		culture = turkish
-		religion = sunni
-		size = 50
-	}
-
-	officers = {
-		culture = turkish
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = turkish
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = turkish
-		religion = sunni
-		size = 500
-	}
-
-	soldiers = {
-		culture = turkish
-		religion = sunni
-		size = 175
-	}
-
-	farmers = {
-		culture = turkish
-		religion = sunni
-		size = 2875
-	}
-
-	clergymen = {
+	soldiers=
+	{
 		culture = greek
 		religion = orthodox
-		size = 100
+		size= 144
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = greek
 		religion = orthodox
-		size = 750
+		size= 576
 	}
 
-	farmers = {
+	clergymen=
+	{
 		culture = greek
 		religion = orthodox
-		size = 11150
+		size= 94
 	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 7
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 121
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 13446
+	}
+
 }
-#Limassol (44000/11000 POPS)
 856 = {
-	aristocrats = {
-		culture = turkish
-		religion = sunni
-		size = 200
-	}
-
-	clergymen = {
-		culture = turkish
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = turkish
-		religion = sunni
-		size = 300
-	}
-
-	soldiers = {
-		culture = turkish
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = turkish
-		religion = sunni
-		size = 1350
-	}
-
-	clergymen = {
+	soldiers=
+	{
 		culture = greek
 		religion = orthodox
-		size = 75
+		size= 99
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = greek
 		religion = orthodox
-		size = 400
+		size= 396
 	}
 
-	farmers = {
+	clergymen=
+	{
 		culture = greek
 		religion = orthodox
-		size = 8525
+		size= 64
 	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 5
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 9245
+	}
+
 }
-#Famagusta (44000/11000 POPS)
 857 = {
-	aristocrats = {
-		culture = turkish
-		religion = sunni
-		size = 200
-	}
-
-	clergymen = {
-		culture = turkish
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = turkish
-		religion = sunni
-		size = 150
-	}
-
-	soldiers = {
-		culture = turkish
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = turkish
-		religion = sunni
-		size = 2500
-	}
-
-	clergymen = {
+	soldiers=
+	{
 		culture = greek
 		religion = orthodox
-		size = 75
+		size= 99
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = greek
 		religion = orthodox
-		size = 400
+		size= 396
 	}
 
-	farmers = {
+	clergymen=
+	{
 		culture = greek
 		religion = orthodox
-		size = 7525
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 5
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 9245
 	}
 
 }

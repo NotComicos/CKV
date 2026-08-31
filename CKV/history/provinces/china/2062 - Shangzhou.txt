@@ -1,6 +1,7 @@
-owner = XBI
-controller = XBI
-add_core = CHI
-add_core = XBI
+owner=TNG
+controller=TNG
+add_core=CHI
+add_core=TNG
 trade_goods = coal
 life_rating = 32
+terrain = plains

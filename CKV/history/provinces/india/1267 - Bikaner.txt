@@ -1,6 +1,7 @@
-owner = BIK
-controller = BIK
-add_core = BIK
-add_core = HND
+owner=X79
+controller=X79
+add_core=HND
+add_core=X79
 trade_goods = wool
 life_rating = 32
+terrain = plains

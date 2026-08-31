@@ -1,4 +1,6 @@
-add_core = RUS
-add_core = JAP
+owner=AIN
+controller=AIN
+add_core=AIN
 trade_goods = coal
 life_rating = 35
+terrain = hills

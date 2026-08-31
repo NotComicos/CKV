@@ -1,5 +1,7 @@
-owner = NET
-controller = NET
+owner=BNE
+controller=BNE
+add_core=BNE
+add_core=MAL
 trade_goods = timber
 life_rating = 30
-colonial = 2
+terrain = jungle

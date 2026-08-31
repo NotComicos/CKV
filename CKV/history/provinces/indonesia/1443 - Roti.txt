@@ -1,4 +1,3 @@
-owner = NET
-controller = NET
 trade_goods = timber
 life_rating = 30
+terrain = plains

@@ -1,7 +1,6 @@
-owner = ECU
-controller = ECU
-add_core = ECU
-add_core = PEU
-add_core = GCO
+owner=CJA
+controller=CJA
+add_core=CJA
 trade_goods = timber
 life_rating = 30
+terrain = mountain

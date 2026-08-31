@@ -1,5 +1,8 @@
-owner = BYZ
-controller = BYZ
-add_core = BYZ
+owner=DLM
+controller=DLM
+add_core=CRO
+add_core=DLM
+add_core=YUG
 trade_goods = fish
 life_rating = 35
+terrain = plains

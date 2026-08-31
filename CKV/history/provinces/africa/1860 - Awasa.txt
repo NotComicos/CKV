@@ -1,5 +1,6 @@
-owner = ETH
-controller = ETH
-add_core = ETH
+owner=HDY
+controller=HDY
+add_core=HDY
 trade_goods = cattle
 life_rating = 30
+terrain = mountain

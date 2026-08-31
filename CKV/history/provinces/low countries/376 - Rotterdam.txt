@@ -1,11 +1,7 @@
-owner = NGF
-controller = NGF
-add_core = NGF
-add_core = GER
+owner=GER
+controller=GER
+add_core=GER
+add_core=NET
 trade_goods = fish
 life_rating = 35
-naval_base = 2
-1861.1.1 = { 
-	railroad = 1
-	naval_base = 3
-}
+terrain = marsh

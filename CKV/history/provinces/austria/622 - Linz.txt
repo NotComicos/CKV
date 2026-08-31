@@ -1,7 +1,7 @@
-owner = NGF
-controller = NGF
-add_core = NGF
-add_core = GER
+owner=HUN
+controller=HUN
+add_core=GER
+add_core=HUN
 trade_goods = sulphur
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+terrain = woods

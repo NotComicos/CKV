@@ -1,6 +1,7 @@
-owner = BEL
-controller = BEL
-add_core = BEL
+owner=W35
+controller=W35
+add_core=GER
+add_core=W35
 trade_goods = sulphur
 life_rating = 30
-1861.1.1 = { railroad = 3 }
+terrain = woods

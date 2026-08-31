@@ -1,5 +1,8 @@
-owner = BUR
-controller = BUR
-add_core = BUR
+owner=KWN
+controller=KWN
+add_core=IDO
+add_core=KCH
+add_core=KWN
 trade_goods = timber
 life_rating = 35
+terrain = mountain

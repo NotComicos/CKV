@@ -1,794 +1,722 @@
-#Luzon Region (2176000)
-#Ruled by Spain in 1836
-#Manila (780000/195000 POPS)
 1455 = {
-	aristocrats = {
-		culture = spanish
-		religion = catholic
-		size = 200
-	}
-
-	bureaucrats = {
-		culture = spanish
-		religion = catholic
-		size = 400
-	}
-
-	clergymen = {
-		culture = spanish
-		religion = catholic
-		size = 250
-	}
-
-	artisans = {
-		culture = spanish
-		religion = catholic
-		size = 1050
-	}
-
-	soldiers = {
-		culture = spanish
-		religion = catholic
-		size = 100
-	}
-
-	aristocrats = {
+	soldiers=
+	{
 		culture = filipino
-		religion = catholic
-		size = 1250
+		religion = animist
+		size= 1505
 	}
 
-	bureaucrats = {
+	artisans=
+	{
 		culture = filipino
-		religion = catholic
-		size = 450
+		religion = animist
+		size= 6015
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = filipino
-		religion = catholic
-		size = 750
+		religion = animist
+		size= 978
 	}
 
-	artisans = {
+	bureaucrats=
+	{
 		culture = filipino
-		religion = catholic
-		size = 10000
+		religion = animist
+		size= 74
 	}
 
-	artisans = {
+	officers=
+	{
 		culture = filipino
-		religion = catholic
-		size = 10000
+		religion = animist
+		size= 121
 	}
 
-	artisans = {
+	aristocrats=
+	{
 		culture = filipino
-		religion = catholic
-		size = 9000
+		religion = animist
+		size= 1264
 	}
 
-	soldiers = {
+	farmers=
+	{
 		culture = filipino
-		religion = catholic
-		size = 4000
+		religion = animist
+		size= 140432
 	}
 
-	farmers = {
+	soldiers=
+	{
 		culture = filipino
-		religion = catholic
-		size = 136550
+		religion = mahayana
+		size= 203
 	}
 
-	artisans = {
-		culture = nanfaren
-		religion = catholic
-		size = 1200
+	artisans=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 813
 	}
 
-	farmers = {
-		culture = nanfaren
-		religion = catholic
-		size = 800
+	clergymen=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 132
 	}
 
-	clergymen = {
-		culture = malay
-		religion = catholic
-		size = 75
+	bureaucrats=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 10
 	}
 
-	artisans = {
-		culture = malay
-		religion = catholic
-		size = 1100
+	officers=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 16
 	}
 
-	soldiers = {
-		culture = malay
-		religion = catholic
-		size = 200
+	aristocrats=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 171
 	}
 
-	farmers = {
-		culture = malay
-		religion = catholic
-		size = 17725
+	farmers=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 18978
 	}
+
 }
-#Vigan (608000/152000 POPS)
 1456 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = filipino
-		religion = catholic
-		size = 1100
+		religion = animist
+		size= 1000
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = filipino
-		religion = catholic
-		size = 625
+		religion = animist
+		size= 625
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = filipino
-		religion = catholic
-		size = 7350
+		religion = animist
+		size= 7350
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = filipino
-		religion = catholic
-		size = 1500
+		religion = animist
+		size= 1500
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = filipino
-		religion = catholic
-		size = 134525
+		religion = animist
+		size= 134525
 	}
 
-	clergymen = {
-		culture = asian_minor
-		religion = catholic
-		size = 50
+	aristocrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 1000
 	}
 
-	artisans = {
-		culture = asian_minor
-		religion = catholic
-		size = 250
+	clergymen=
+	{
+		culture = filipino
+		religion = sunni
+		size= 50
 	}
 
-	soldiers = {
-		culture = asian_minor
-		religion = catholic
-		size = 50
+	artisans=
+	{
+		culture = filipino
+		religion = sunni
+		size= 250
 	}
 
-	farmers = {
-		culture = asian_minor
-		religion = catholic
-		size = 6650
+	soldiers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 50
 	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 6650
+	}
+
 }
-#Legazpi (564000/141000 POPS)
 1457 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = filipino
-		religion = catholic
-		size = 1100
+		religion = animist
+		size= 1000
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = filipino
-		religion = catholic
-		size = 625
+		religion = animist
+		size= 625
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = filipino
-		religion = catholic
-		size = 6500
+		religion = animist
+		size= 6500
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = filipino
-		religion = catholic
-		size = 1350
+		religion = animist
+		size= 1350
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = filipino
-		religion = catholic
-		size = 122525
+		religion = animist
+		size= 122525
 	}
 
-	clergymen = {
-		culture = malay
-		religion = catholic
-		size = 50
+	aristocrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 100
 	}
 
-	artisans = {
-		culture = malay
-		religion = catholic
-		size = 500
+	clergymen=
+	{
+		culture = filipino
+		religion = sunni
+		size= 50
 	}
 
-	soldiers = {
-		culture = malay
-		religion = catholic
-		size = 100
+	artisans=
+	{
+		culture = filipino
+		religion = sunni
+		size= 500
 	}
 
-	farmers = {
-		culture = malay
-		religion = catholic
-		size = 8350
+	soldiers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 100
 	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 8350
+	}
+
 }
-#Mindoro (224000/56000 POPS)
 1458 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = filipino
-		religion = catholic
-		size = 400
+		religion = animist
+		size= 417
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = filipino
-		religion = catholic
-		size = 175
+		religion = animist
+		size= 1665
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = filipino
-		religion = catholic
-		size = 2100
+		religion = animist
+		size= 271
 	}
 
-	soldiers = {
+	bureaucrats=
+	{
 		culture = filipino
-		religion = catholic
-		size = 450
+		religion = animist
+		size= 21
 	}
 
-	farmers = {
+	officers=
+	{
 		culture = filipino
-		religion = catholic
-		size = 38875
+		religion = animist
+		size= 33
 	}
 
-	clergymen = {
+	aristocrats=
+	{
 		culture = filipino
-		religion = sunni
-		size = 125
+		religion = animist
+		size= 349
 	}
 
-	artisans = {
+	farmers=
+	{
 		culture = filipino
-		religion = sunni
-		size = 750
+		religion = animist
+		size= 38869
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = filipino
-		religion = sunni
-		size = 100
+		religion = mahayana
+		size= 56
 	}
 
-	farmers = {
+	artisans=
+	{
 		culture = filipino
-		religion = sunni
-		size = 11025
+		religion = mahayana
+		size= 225
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 3
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = mahayana
+		size= 5252
 	}
 
 }
-#Visayas Region (1044000 POPS)
-#under rule of Spain 1836
-#Palawan (80000/20000 POPS)
 1459 = {
-	aristocrats = {
-		culture = filipino
-		religion = catholic
-		size = 25
-	}
-
-	clergymen = {
-		culture = filipino
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = filipino
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = filipino
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = filipino
-		religion = catholic
-		size = 3700
-	}
-
-	aristocrats = {
+	soldiers=
+	{
 		culture = filipino
 		religion = sunni
-		size = 75
+		size= 185
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = filipino
 		religion = sunni
-		size = 50
+		size= 740
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = filipino
 		religion = sunni
-		size = 300
+		size= 120
 	}
 
-	soldiers = {
+	bureaucrats=
+	{
 		culture = filipino
 		religion = sunni
-		size = 75
+		size= 9
 	}
 
-	farmers = {
+	officers=
+	{
 		culture = filipino
 		religion = sunni
-		size = 5500
+		size= 15
 	}
 
-	clergymen = {
-		culture = asian_minor
-		religion = animist
-		size = 75
+	aristocrats=
+	{
+		culture = filipino
+		religion = sunni
+		size= 155
 	}
 
-	artisans = {
-		culture = asian_minor
-		religion = animist
-		size = 450
+	farmers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 17276
 	}
 
-	soldiers = {
-		culture = asian_minor
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = asian_minor
-		religion = animist
-		size = 9375
-	}
 }
-#Iloilo (312000/78000 POPS)
 1460 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = filipino
-		religion = catholic
-		size = 650
+		religion = animist
+		size= 683
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = filipino
-		religion = catholic
-		size = 350
+		religion = animist
+		size= 2730
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = filipino
-		religion = catholic
-		size = 3500
+		religion = animist
+		size= 443
 	}
 
-	soldiers = {
+	bureaucrats=
+	{
 		culture = filipino
-		religion = catholic
-		size = 750
+		religion = animist
+		size= 34
 	}
 
-	farmers = {
+	officers=
+	{
 		culture = filipino
-		religion = catholic
-		size = 64750
+		religion = animist
+		size= 55
 	}
 
-	clergymen = {
+	aristocrats=
+	{
 		culture = filipino
-		religion = sunni
-		size = 75
+		religion = animist
+		size= 574
 	}
 
-	artisans = {
+	farmers=
+	{
 		culture = filipino
-		religion = sunni
-		size = 500
+		religion = animist
+		size= 63731
 	}
 
-	soldiers = {
-		culture = filipino
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = filipino
-		religion = sunni
-		size = 7325
-	}
 }
-#Tacloban (348000/87000 POPS)
 1461 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = filipino
-		religion = catholic
-		size = 750
+		religion = animist
+		size= 500
 	}
 
-	clergymen = {
-		culture = filipino
-		religion = catholic
-		size = 625
-	}
-
-	artisans = {
-		culture = filipino
-		religion = catholic
-		size = 4250
-	}
-
-	soldiers = {
-		culture = filipino
-		religion = catholic
-		size = 850
-	}
-
-	farmers = {
-		culture = filipino
-		religion = catholic
-		size = 80125
-	}
-}
-#Cebu (304000/76000 POPS)
-2565 = {
-	bureaucrats = {
-		culture = spanish
-		religion = catholic
-		size = 125
-	}
-
-	clergymen = {
-		culture = spanish
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = spanish
-		religion = catholic
-		size = 25
-	}
-
-	aristocrats = {
-		culture = filipino
-		religion = catholic
-		size = 675
-	}
-
-	bureaucrats = {
-		culture = filipino
-		religion = catholic
-		size = 375
-	}
-
-	clergymen = {
-		culture = filipino
-		religion = catholic
-		size = 450
-	}
-
-	artisans = {
-		culture = filipino
-		religion = catholic
-		size = 3500
-	}
-
-	soldiers = {
-		culture = filipino
-		religion = catholic
-		size = 750
-	}
-
-	farmers = {
-		culture = filipino
-		religion = catholic
-		size = 64050
-	}
-
-	clergymen = {
+	aristocrats=
+	{
 		culture = filipino
 		religion = sunni
-		size = 50
+		size= 250
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = filipino
-		religion = sunni
-		size = 500
+		religion = animist
+		size= 500
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = filipino
 		religion = sunni
-		size = 75
+		size= 125
 	}
 
-	farmers = {
+	artisans=
+	{
+		culture = filipino
+		religion = animist
+		size= 3000
+	}
+
+	artisans=
+	{
 		culture = filipino
 		religion = sunni
-		size = 5375
+		size= 1250
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 60000
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = sunni
+		size= 20125
 	}
 
 }
-#Mindanao Region (496000)
-#Under Spanish "Rule" 1836
-#Davao (152000/38000 POPS)
-1463 = {
-	bureaucrats = {
-		culture = spanish
-		religion = catholic
-		size = 75
-	}
-
-	clergymen = {
-		culture = spanish
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = spanish
-		religion = catholic
-		size = 25
-	}
-
-	aristocrats = {
-		culture = filipino
-		religion = catholic
-		size = 100
-	}
-
-	clergymen = {
-		culture = filipino
-		religion = catholic
-		size = 100
-	}
-
-	artisans = {
-		culture = filipino
-		religion = catholic
-		size = 850
-	}
-
-	soldiers = {
-		culture = filipino
-		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = filipino
-		religion = catholic
-		size = 14800
-	}
-
-	aristocrats = {
-		culture = filipino
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = filipino
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = filipino
-		religion = sunni
-		size = 600
-	}
-
-	soldiers = {
-		culture = filipino
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = filipino
-		religion = sunni
-		size = 11100
-	}
-
-	farmers = {
-		culture = malay
-		religion = catholic
-		size = 1100
-	}
-
-	aristocrats = {
-		culture = asian_minor
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = asian_minor
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = asian_minor
-		religion = animist
-		size = 350
-	}
-
-	soldiers = {
-		culture = asian_minor
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = asian_minor
-		religion = animist
-		size = 7375
-	}
-}
-#Under rule of Sultans of Sulu in 1836
-#Zamboanga (300000/75000 POPS)
 1462 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = filipino
-		religion = sunni
-		size = 600
-	}
-
-	clergymen = {
-		culture = filipino
-		religion = sunni
-		size = 500
-	}
-
-	artisans = {
-		culture = filipino
-		religion = sunni
-		size = 2500
-	}
-
-	soldiers = {
-		culture = filipino
-		religion = sunni
-		size = 500
-	}
-
-	farmers = {
-		culture = filipino
-		religion = sunni
-		size = 44900
-	}
-
-	clergymen = {
-		culture = filipino
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = filipino
-		religion = catholic
-		size = 750
-	}
-
-	farmers = {
-		culture = filipino
-		religion = catholic
-		size = 12200
-	}
-
-	slaves = {
-		culture = filipino
-		religion = catholic
-		size = 4000
-	}
-
-	aristocrats = {
-		culture = asian_minor
 		religion = animist
-		size = 100
+		size= 695
 	}
 
-	clergymen = {
-		culture = asian_minor
+	artisans=
+	{
+		culture = filipino
 		religion = animist
-		size = 75
+		size= 2779
 	}
 
-	artisans = {
-		culture = asian_minor
+	clergymen=
+	{
+		culture = filipino
 		religion = animist
-		size = 300
+		size= 452
 	}
 
-	soldiers = {
-		culture = asian_minor
+	bureaucrats=
+	{
+		culture = filipino
 		religion = animist
-		size = 100
+		size= 35
 	}
 
-	farmers = {
-		culture = asian_minor
+	officers=
+	{
+		culture = filipino
 		religion = animist
-		size = 8525
+		size= 56
 	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 584
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 64866
+	}
+
 }
-#Jolo (44000/11000 POPS)
+1463 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = animist
+		size= 354
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = animist
+		size= 1413
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = animist
+		size= 230
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = animist
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = animist
+		size= 297
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = animist
+		size= 32995
+	}
+
+}
 1464 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = malay
 		religion = sunni
-		size = 100
+		size= 100
 	}
 
-	bureaucrats = {
+	bureaucrats=
+	{
 		culture = malay
 		religion = sunni
-		size = 75
+		size= 75
 	}
 
-	officers = {
+	officers=
+	{
 		culture = malay
 		religion = sunni
-		size = 75
+		size= 75
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = malay
 		religion = sunni
-		size = 100
+		size= 100
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = malay
 		religion = sunni
-		size = 600
+		size= 600
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = malay
 		religion = sunni
-		size = 225
+		size= 225
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = malay
 		religion = sunni
-		size = 9825
+		size= 9825
+	}
+
+}
+2565 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 665
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = hindu
+		size= 2660
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = hindu
+		size= 432
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 33
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = hindu
+		size= 559
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = hindu
+		size= 62098
 	}
 
 }

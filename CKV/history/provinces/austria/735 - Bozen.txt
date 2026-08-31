@@ -1,6 +1,7 @@
-owner = NGF
-controller = NGF
-add_core = NGF
-add_core = GER
+owner=ITA
+controller=ITA
+add_core=GER
+add_core=ITA
 trade_goods = grain
 life_rating = 35
+terrain = mountain

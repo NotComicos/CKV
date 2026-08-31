@@ -1,11 +1,7 @@
-owner = ITA
-controller = ITA
-add_core = ITA
+owner=W24
+controller=W24
+add_core=LGB
+add_core=W24
 trade_goods = fruit
 life_rating = 35
-1861.1.1 = {
-	controller = ITA
-	owner = ITA
-	add_core = ITA
-}
-1861.1.1 = { railroad = 1 }
+terrain = plains

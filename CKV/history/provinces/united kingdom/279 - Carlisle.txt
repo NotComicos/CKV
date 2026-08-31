@@ -1,6 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner=X95
+controller=X95
+add_core=DNL
+add_core=X95
 trade_goods = grain
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+terrain = plains

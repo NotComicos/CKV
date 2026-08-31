@@ -1,6 +1,8 @@
-owner = MGL
-controller = MGL
-add_core = CHI
-add_core = MGL
+owner=TNG
+controller=TNG
+add_core=KHA
+add_core=MGL
+add_core=TNG
 trade_goods = coal
 life_rating = 32
+terrain = hills

@@ -1,5 +1,6 @@
-owner = NET
-controller = NET
+owner=LUW
+controller=LUW
+add_core=MAL
 trade_goods = grain
 life_rating = 30
-colonial = 2
+terrain = hills

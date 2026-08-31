@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = CAN
+owner=ATT
+controller=ATT
+add_core=ATT
 trade_goods = iron
 life_rating = 35
-colonial = 2
+terrain = forest

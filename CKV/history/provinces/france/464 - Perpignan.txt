@@ -1,5 +1,7 @@
-owner = CAT
-controller = CAT
-add_core = CAT
+owner=CAT
+controller=CAT
+add_core=CAT
+add_core=VGO
 trade_goods = grain
 life_rating = 31
+terrain = mountain

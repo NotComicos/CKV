@@ -1,9 +1,13 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = POL
-#add_core = LIT
-add_core = BYE
-add_core = PLC
+owner=UKR
+controller=UKR
+add_core=BYE
+add_core=UKR
 trade_goods = grain
 life_rating = 35
+terrain = woods
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

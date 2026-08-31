@@ -1,6 +1,8 @@
-owner = KRA
-controller = KRA
-add_core = KRA
+owner=W07
+controller=W07
+add_core=POL
+add_core=W07
+add_core=WSF
 trade_goods = wool
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+terrain = plains

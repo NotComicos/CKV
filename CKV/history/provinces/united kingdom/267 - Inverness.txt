@@ -1,5 +1,8 @@
-
+owner=W18
+controller=W18
+add_core=DNL
+add_core=W18
+add_core=X09
 trade_goods = sulphur
 life_rating = 35
-naval_base = 1
-1861.1.1 = { railroad = 1 }
+terrain = mountain

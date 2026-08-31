@@ -1,577 +1,662 @@
-#Ivory Coast Region (710000) 
-#uncolonized in 1836
-#Grand Lahou (108000/27000 POPS)   
 1892 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = akan
 		religion = animist
-		size = 500
+		size= 500
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = akan
 		religion = animist
-		size = 275
+		size= 275
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = akan
 		religion = animist
-		size = 1075
+		size= 1075
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = akan
 		religion = animist
-		size = 275
+		size= 275
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = akan
 		religion = animist
-		size = 19875
+		size= 19875
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = akan
 		religion = animist
-		size = 5000
+		size= 5000
 	}
+
 }
-#Sassandra (282000/47000 POPS)
 1893 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = akan
 		religion = animist
-		size = 225
+		size= 225
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = akan
 		religion = animist
-		size = 125
+		size= 125
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = akan
 		religion = animist
-		size = 500
+		size= 500
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = akan
 		religion = animist
-		size = 125
+		size= 125
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = akan
 		religion = animist
-		size = 8025
+		size= 8025
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = akan
 		religion = animist
-		size = 3000
+		size= 3000
 	}
 
-	aristocrats = {
+	aristocrats=
+	{
 		culture = kru
 		religion = animist
-		size = 725
+		size= 725
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = kru
 		religion = animist
-		size = 375
+		size= 375
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = kru
 		religion = animist
-		size = 1500
+		size= 1500
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = kru
 		religion = animist
-		size = 375
+		size= 375
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = kru
 		religion = animist
-		size = 22025
+		size= 22025
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = kru
 		religion = animist
-		size = 10000
+		size= 10000
 	}
+
 }
-#Grand Bassam (88000/22000 POPS)
 1894 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = akan
 		religion = animist
-		size = 425
+		size= 425
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = akan
 		religion = animist
-		size = 225
+		size= 225
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = akan
 		religion = animist
-		size = 1100
+		size= 1100
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = akan
 		religion = animist
-		size = 225
+		size= 225
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = akan
 		religion = animist
-		size = 16025
+		size= 16025
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = akan
 		religion = animist
-		size = 4000
+		size= 4000
 	}
+
 }
-#Bouake (60000/15000 POPS)
 1895 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = akan
 		religion = animist
-		size = 225
+		size= 225
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = akan
 		religion = animist
-		size = 125
+		size= 125
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = akan
 		religion = animist
-		size = 600
+		size= 600
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = akan
 		religion = animist
-		size = 125
+		size= 125
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = akan
 		religion = animist
-		size = 8925
+		size= 8925
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = akan
 		religion = animist
-		size = 2000
+		size= 2000
 	}
 
-	aristocrats = {
+	aristocrats=
+	{
 		culture = mande
 		religion = sunni
-		size = 50
+		size= 50
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = mande
 		religion = sunni
-		size = 75
+		size= 75
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = mande
 		religion = sunni
-		size = 150
+		size= 150
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = mande
 		religion = sunni
-		size = 25
+		size= 25
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = mande
 		religion = sunni
-		size = 2700
+		size= 2700
 	}
+
 }
-#Man (80000/20000 POPS)
 1896 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = mande
 		religion = sunni
-		size = 150
+		size= 150
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = mande
 		religion = sunni
-		size = 75
+		size= 75
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = mande
 		religion = sunni
-		size = 400
+		size= 400
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = mande
 		religion = sunni
-		size = 75
+		size= 75
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = mande
 		religion = sunni
-		size = 7300
+		size= 7300
 	}
 
-	aristocrats = {
+	aristocrats=
+	{
 		culture = kru
 		religion = animist
-		size = 425
+		size= 425
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = kru
 		religion = animist
-		size = 225
+		size= 225
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = kru
 		religion = animist
-		size = 1100
+		size= 1100
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = kru
 		religion = animist
-		size = 225
+		size= 225
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = kru
 		religion = animist
-		size = 15025
+		size= 15025
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = kru
 		religion = animist
-		size = 5000
+		size= 5000
 	}
+
 }
-#Akoupe (92000/23000 POPS)
 1897 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = akan
 		religion = animist
-		size = 425
+		size= 425
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = akan
 		religion = animist
-		size = 225
+		size= 225
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = akan
 		religion = animist
-		size = 950
+		size= 950
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = akan
 		religion = animist
-		size = 250
+		size= 250
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = akan
 		religion = animist
-		size = 18150
+		size= 18150
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = akan
 		religion = animist
-		size = 3000
+		size= 3000
 	}
+
 }
-#Worodugu Region (160000) #see Mali.txt and Burkina.txt for balance of Region
-#uncolonized in 1836/under the rule of the Emirs of Kong
-#Kong (88000/22000 POPS)
 1898 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = dyula
 		religion = sunni
-		size = 200
+		size= 200
 	}
 
-	bureaucrats = {
+	bureaucrats=
+	{
 		culture = dyula
 		religion = sunni
-		size = 15
+		size= 15
 	}
 
-	officers = {
+	officers=
+	{
 		culture = dyula
 		religion = sunni
-		size = 25
+		size= 25
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = dyula
 		religion = sunni
-		size = 125
+		size= 125
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = dyula
 		religion = sunni
-		size = 600
+		size= 600
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = dyula
 		religion = sunni
-		size = 125
+		size= 125
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = dyula
 		religion = sunni
-		size = 6910
+		size= 6910
 	}
 
-	aristocrats = {
+	aristocrats=
+	{
 		culture = senufo
 		religion = animist
-		size = 175
+		size= 175
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = senufo
 		religion = animist
-		size = 100
+		size= 100
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = senufo
 		religion = animist
-		size = 500
+		size= 500
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = senufo
 		religion = animist
-		size = 100
+		size= 100
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = senufo
 		religion = animist
-		size = 9125
+		size= 9125
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = senufo
 		religion = animist
-		size = 4000
+		size= 4000
 	}
+
 }
-#Bundoukou (72000/18000 POPS)
 1899 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = dyula
 		religion = sunni
-		size = 200
+		size= 200
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = dyula
 		religion = sunni
-		size = 100
+		size= 100
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = dyula
 		religion = sunni
-		size = 550
+		size= 550
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = dyula
 		religion = sunni
-		size = 125
+		size= 125
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = dyula
 		religion = sunni
-		size = 7025
+		size= 7025
 	}
 
-	aristocrats = {
+	aristocrats=
+	{
 		culture = senufo
 		religion = animist
-		size = 125
+		size= 125
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = senufo
 		religion = animist
-		size = 75
+		size= 75
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = senufo
 		religion = animist
-		size = 350
+		size= 350
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = senufo
 		religion = animist
-		size = 75
+		size= 75
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = senufo
 		religion = animist
-		size = 6375
+		size= 6375
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = senufo
 		religion = animist
-		size = 3000
+		size= 3000
 	}
+
 }
-#Bure Region (340000) #see Mali.txt and Guinea.txt for balance of Region
-#uncolonized in 1836
-#Odienne (96000/24000 POPS) #now part of Ivory Coast  
 1900 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = mande
 		religion = sunni
-		size = 300
+		size= 300
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = mande
 		religion = sunni
-		size = 150
+		size= 150
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = mande
 		religion = sunni
-		size = 650
+		size= 650
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = mande
 		religion = sunni
-		size = 175
+		size= 175
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = mande
 		religion = sunni
-		size = 11675
+		size= 11675
 	}
 
-	aristocrats = {
+	aristocrats=
+	{
 		culture = dyula
 		religion = sunni
-		size = 75
+		size= 75
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = dyula
 		religion = sunni
-		size = 50
+		size= 50
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = dyula
 		religion = sunni
-		size = 250
+		size= 250
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = dyula
 		religion = sunni
-		size = 50
+		size= 50
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = dyula
 		religion = sunni
-		size = 4575
+		size= 4575
 	}
 
-	aristocrats = {
+	aristocrats=
+	{
 		culture = african_minor
 		religion = animist
-		size = 50
+		size= 50
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = african_minor
 		religion = animist
-		size = 75
+		size= 75
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = african_minor
 		religion = animist
-		size = 150
+		size= 150
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = african_minor
 		religion = animist
-		size = 25
+		size= 25
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = african_minor
 		religion = animist
-		size = 2700
+		size= 2700
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = african_minor
 		religion = animist
-		size = 3000
+		size= 3000
 	}
 
 }

@@ -1,5 +1,6 @@
-owner = PEU
-controller = PEU
-add_core = PEU
+owner=CYA
+controller=CYA
+add_core=CYA
 trade_goods = timber
 life_rating = 30
+terrain = mountain

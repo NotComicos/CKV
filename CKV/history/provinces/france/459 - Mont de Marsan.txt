@@ -1,6 +1,8 @@
-owner = GAS
-controller = GAS
-add_core = GAS
+owner=GYN
+controller=GYN
+add_core=FRA
+add_core=GYN
+add_core=OCC
 trade_goods = grain
 life_rating = 31
-1861.1.1 = { railroad = 3 }
+terrain = plains

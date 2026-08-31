@@ -1,18 +1,14 @@
-owner = MAZ
-controller = MAZ
-add_core = MAZ
+owner=POL
+controller=MAZ
+add_core=MAZ
+add_core=POL
+add_core=WSF
 trade_goods = cattle
 life_rating = 35
-#state_building = {
-#	level = 1
-#	building = fabric_factory
-#	upgrade = yes
-#}
-1861.1.1 = { 
-	state_building = {
-		level = 1
-		building = regular_clothes_factory
-		upgrade = yes
-	} 
+terrain = farmlands
+state_building=
+{
+	level=1
+	building = winery
+	upgrade = yes
 }
-1861.1.1 = { railroad = 3 }

@@ -1,7 +1,6 @@
-owner = TUN
-controller = TUN
-add_core = TUN
+owner=TUN
+controller=TUN
+add_core=TUN
 trade_goods = grain
 life_rating = 35
-colonial = 2
-1861.1.1 = { railroad = 2 }
+terrain = plains

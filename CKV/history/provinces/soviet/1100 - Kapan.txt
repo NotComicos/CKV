@@ -1,5 +1,6 @@
-owner = AZB
-controller = AZB
-add_core = AZB
+owner=ARM
+controller=ARM
+add_core=ARM
 trade_goods = iron
 life_rating = 35
+terrain = mountain

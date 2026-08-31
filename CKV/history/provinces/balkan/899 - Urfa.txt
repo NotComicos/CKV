@@ -1,5 +1,7 @@
-owner = HAM
-controller = HAM
-add_core = HAM
+owner=BYZ
+controller=BYZ
+add_core=ARM
+add_core=BYZ
 trade_goods = grain
 life_rating = 35
+terrain = hills

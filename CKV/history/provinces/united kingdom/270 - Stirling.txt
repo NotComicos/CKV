@@ -1,7 +1,8 @@
-owner = ENG
-controller = ENG
-add_core = ENG
-add_core = SCO
+owner=X09
+controller=X09
+add_core=ENG
+add_core=SCO
+add_core=X09
 trade_goods = coal
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+terrain = hills

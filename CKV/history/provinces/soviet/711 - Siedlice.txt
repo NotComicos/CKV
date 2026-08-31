@@ -1,5 +1,8 @@
-owner = MAZ
-controller = MAZ
-add_core = MAZ
+owner=W41
+controller=W41
+add_core=LIT
+add_core=UBD
+add_core=W41
 trade_goods = cattle
 life_rating = 35
+terrain = plains

@@ -1,5 +1,7 @@
-owner = BRU
-controller = BRU
-add_core = BRU
+owner=X73
+controller=X73
+add_core=ALN
+add_core=X73
 trade_goods = grain
 life_rating = 35
+terrain = steppe

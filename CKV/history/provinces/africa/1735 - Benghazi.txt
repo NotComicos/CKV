@@ -1,5 +1,6 @@
-owner = TUN
-controller = TUN
-add_core = TUN
+owner=X89
+controller=X89
+add_core=X89
 trade_goods = fruit
 life_rating = 35
+terrain = plains

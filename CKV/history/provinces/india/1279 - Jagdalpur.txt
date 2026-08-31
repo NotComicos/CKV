@@ -1,6 +1,7 @@
-owner = BAS
-controller = BAS
-add_core = BAS
-add_core = HND
+owner=KLH
+controller=KLH
+add_core=HND
+add_core=KLH
 trade_goods = grain
 life_rating = 32
+terrain = hills

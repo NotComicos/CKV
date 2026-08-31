@@ -1,6 +1,7 @@
-owner = XBI
-controller = XBI
-add_core = CHI
-add_core = XBI
+owner=W22
+controller=W22
+add_core=TIB
+add_core=W22
 trade_goods = coal
 life_rating = 32
+terrain = hills

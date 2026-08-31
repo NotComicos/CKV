@@ -1,2 +1,8 @@
+owner=MRE
+controller=MRE
+add_core=AWS
+add_core=MRE
+add_core=SOM
 trade_goods = cotton
 life_rating = 15
+terrain = mountain

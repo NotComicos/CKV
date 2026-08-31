@@ -1,10 +1,8 @@
-owner = PAN
-controller = PAN
-add_core = PAN
-add_core = AFG
+owner=X96
+controller=X96
+add_core=HND
+add_core=X96
 trade_goods = grain
 life_rating = 35
-1861.1.1 = {
-	owner = AFG
-	controller = AFG
-}
+terrain = mountain
+fort = 2

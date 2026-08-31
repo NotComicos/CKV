@@ -1,47 +1,83 @@
-capital = 809
+capital = 815
 primary_culture = bulgarian
+culture = romanian
+culture = zzz_religion_orthodox
 religion = orthodox
-government = hms_government
-plurality = 0.08
+government = absolute_monarchy
+plurality = 0
 nationalvalue = nv_order
-literacy = 0.4
-civilized = yes
+literacy = 0.0291419
 
-# Political reforms
-slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = landed_voting
-public_meetings = yes_meeting
-press_rights = censored_press
-trade_unions = no_trade_unions
-voting_system = jefferson_method
-political_parties = non_secret_ballots
+civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
-health_care = trinket_health_care
+health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions 
+pensions = no_pensions
 school_reforms = no_schools
 
-ruling_party = BUL_conservative
-upper_house = {
+# political reforms
+slavery=yes_slavery
+vote_franschise=landed_voting
+upper_house_composition=appointed
+voting_system=jefferson_method
+public_meetings=no_meeting
+press_rights=censored_press
+trade_unions=state_controlled
+political_parties=harassment
+
+ruling_party = BUL_reactionary
+upper_house = 
+{
 	fascist = 0
-	liberal = 25
-	conservative = 60
-	reactionary = 10
-	anarcho_liberal = 5
+	liberal = 8
+	conservative = 87
+	reactionary = 5
+	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
 
-1861.1.1 = {
-	oob = "/1861/BUL_oob.txt"
-}
-1861.1.1 = {
-# Technologies
+# Starting Consciousness
+consciousness = 2.00073
+nonstate_consciousness= 0.0552201
 
-#Inventions
-}
+# Technologies
+alphabetic_flag_signaling = 1
+basic_chemistry = 1
+battleship_column_doctrine = 1
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+clean_coal = 1
+clipper_design = 1
+early_classical_theory_and_critique = 1
+enlightenment_thought = 1
+experimental_railroad = 1
+flintlock_rifles = 1
+freedom_of_trade = 1
+guild_based_production = 1
+introspectionism = 1
+late_enlightenment_philosophy = 1
+malthusian_thought = 1
+mechanical_production = 1
+mechanized_mining = 1
+naval_design_bureaus = 1
+naval_professionalism = 1
+no_standard = 1
+post_napoleonic_thought = 1
+post_nelsonian_thought = 1
+practical_steam_engine = 1
+private_banks = 1
+publishing_industry = 1
+romanticism = 1
+steamers = 1
+the_command_principle = 1
+water_wheel_power = 1
+prestige=0
+oob = "BUL_OOB.txt"
+set_country_flag = religi
+set_country_flag = vic2_country_BUL
+set_country_flag = eu4_country_BUL

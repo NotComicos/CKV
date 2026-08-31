@@ -1,5 +1,8 @@
-owner = LIT
-controller = LIT
-add_core = LIT
+owner=X20
+controller=X20
+add_core=LIT
+add_core=UBD
+add_core=X20
 trade_goods = grain
 life_rating = 35
+terrain = woods

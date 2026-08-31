@@ -1,6 +1,8 @@
-owner = NWT
-controller = NWT
-add_core = NWT
+owner=X37
+controller=X37
+add_core=NOR
+add_core=SCA
+add_core=X37
 trade_goods = fish
 life_rating = 35
-
+terrain = mountain

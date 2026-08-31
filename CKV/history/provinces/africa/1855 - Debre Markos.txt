@@ -1,5 +1,7 @@
-owner = ETH
-controller = ETH
-add_core = ETH
+owner=X98
+controller=X28
+add_core=ETH
+add_core=X98
 trade_goods = cattle
 life_rating = 30
+terrain = mountain

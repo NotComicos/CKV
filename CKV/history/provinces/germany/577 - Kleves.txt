@@ -1,6 +1,12 @@
-owner = BEL
-controller = BEL
-add_core = BEL
+owner=GER
+controller=GER
+add_core=GER
 trade_goods = coal
 life_rating = 40
-1861.1.1 = { railroad = 3 }
+terrain = farmlands
+state_building=
+{
+	level=1
+	building = glass_factory
+	upgrade = yes
+}

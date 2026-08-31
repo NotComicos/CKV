@@ -1,92 +1,102 @@
-#Equatorial Guinea (143000)
-#Ruled By Spain in 1836
-#Fernando Po (11000/2750 POPS)
 1955 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = spanish
 		religion = catholic
-		size = 3
+		size= 3
 	}
 
-	bureaucrats = {
+	bureaucrats=
+	{
 		culture = spanish
 		religion = catholic
-		size = 2
+		size= 2
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = spanish
 		religion = catholic
-		size = 5
+		size= 5
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = spanish
 		religion = catholic
-		size = 5
+		size= 5
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = spanish
 		religion = catholic
-		size = 5
+		size= 5
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = fang
 		religion = catholic
-		size = 120
+		size= 120
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = fang
 		religion = catholic
-		size = 50
+		size= 50
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = fang
 		religion = catholic
-		size = 1530
+		size= 1530
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = fang
 		religion = animist
-		size = 1100
+		size= 1100
 	}
+
 }
-#uncolonized in 1836
-#Bata (132000/33000 POPS) 
 1973 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = fang
 		religion = animist
-		size = 350
+		size= 350
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = fang
 		religion = animist
-		size = 300
+		size= 300
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = fang
 		religion = animist
-		size = 1500
+		size= 1500
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = fang
 		religion = animist
-		size = 350
+		size= 350
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = fang
 		religion = animist
-		size = 31500
+		size= 31500
 	}
 
 }

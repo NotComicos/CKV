@@ -1,2 +1,7 @@
+owner=X86
+controller=X86
+add_core=UGR
+add_core=X86
 trade_goods = timber
-life_rating = 1
+life_rating = 35
+terrain = arctic

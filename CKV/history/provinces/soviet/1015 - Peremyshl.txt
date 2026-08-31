@@ -1,5 +1,7 @@
-owner = RST
-controller = RST
-add_core = RST
+owner=W16
+controller=W16
+add_core=RUS
+add_core=W16
 trade_goods = timber
 life_rating = 35
+terrain = forest

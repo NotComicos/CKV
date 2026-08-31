@@ -1,5 +1,7 @@
-owner = BUK
-controller = BUK
-add_core = BUK
+owner=W05
+controller=W05
+add_core=PER
+add_core=W05
 trade_goods = cattle
 life_rating = 35
+terrain = mountain

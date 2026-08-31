@@ -1,5 +1,7 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner=X84
+controller=X84
+add_core=EGY
+add_core=X84
 trade_goods = cotton
 life_rating = 35
+terrain = plains

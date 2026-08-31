@@ -1,104 +1,116 @@
-#Casamance Region (108000) #see Senegal.txt and Guinea.txt for balance of region
-#Uncolonized in 1836/Portuguese trade post
-#Bissau (32000/8000 POPS)
 1877 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = portuguese
 		religion = catholic
-		size = 10
+		size= 10
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = portuguese
 		religion = catholic
-		size = 15
+		size= 15
 	}
 
-	bureaucrats = {
+	bureaucrats=
+	{
 		culture = portuguese
 		religion = catholic
-		size = 5
+		size= 5
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = portuguese
 		religion = catholic
-		size = 25
+		size= 25
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = portuguese
 		religion = catholic
-		size = 20
+		size= 20
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = african_minor
 		religion = catholic
-		size = 50
+		size= 50
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = african_minor
 		religion = catholic
-		size = 375
+		size= 375
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = african_minor
 		religion = catholic
-		size = 75
+		size= 75
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = african_minor
 		religion = catholic
-		size = 5500
+		size= 5500
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = african_minor
 		religion = catholic
-		size = 2000
+		size= 2000
 	}
+
 }
-#Uncolonized in 1836/ruled by kingdom of Gabu
-#Gabu (76000/19000 POPS)
 1878 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = mande
 		religion = animist
-		size = 200
+		size= 200
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = mande
 		religion = animist
-		size = 200
+		size= 200
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = mande
 		religion = animist
-		size = 1100
+		size= 1100
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = mande
 		religion = animist
-		size = 200
+		size= 200
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = mande
 		religion = animist
-		size = 14400
+		size= 14400
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = african_minor
 		religion = animist
-		size = 3000
+		size= 3000
 	}
 
 }

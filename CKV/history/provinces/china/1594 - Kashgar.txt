@@ -1,7 +1,7 @@
-add_core = CHI
-add_core = XIN
+owner=W05
+controller=W05
+add_core=PER
+add_core=W05
 trade_goods = cotton
 life_rating = 32
-
-owner = XIN
-controller = XIN
+terrain = desert

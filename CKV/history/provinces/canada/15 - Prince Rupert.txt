@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = CAN
-add_core = COL
+owner=HDA
+controller=HDA
 trade_goods = timber
 life_rating = 35
+terrain = forest

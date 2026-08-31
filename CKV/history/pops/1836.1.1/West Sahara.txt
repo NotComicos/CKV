@@ -1,127 +1,144 @@
-#Rio de Oro Region (20000) #see Mauritania.txt for balance of region
-#uncolonized in 1836  
-#Al Aiyun (12000/3000 POPS)  
 1773 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 10
+		size= 10
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 15
+		size= 15
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size= 50
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 25
+		size= 25
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 900
+		size= 900
 	}
 
-	aristocrats = {
+	aristocrats=
+	{
 		culture = berber
 		religion = sunni
-		size = 25
+		size= 25
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = berber
 		religion = sunni
-		size = 50
+		size= 50
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = berber
 		religion = sunni
-		size = 100
+		size= 100
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = berber
 		religion = sunni
-		size = 25
+		size= 25
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = berber
 		religion = sunni
-		size = 1800
+		size= 1800
 	}
+
 }
-#Dahkla (8000/2000 POPS)  
 1774 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 10
+		size= 10
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 15
+		size= 15
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size= 50
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 25
+		size= 25
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 900
+		size= 900
 	}
 
-	aristocrats = {
+	aristocrats=
+	{
 		culture = maures
 		religion = sunni
-		size = 10
+		size= 10
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = maures
 		religion = sunni
-		size = 15
+		size= 15
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = maures
 		religion = sunni
-		size = 50
+		size= 50
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = maures
 		religion = sunni
-		size = 25
+		size= 25
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = maures
 		religion = sunni
-		size = 900
+		size= 900
 	}
 
 }

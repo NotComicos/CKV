@@ -1,5 +1,7 @@
-owner = BUK
-controller = BUK
-add_core = BUK
+owner=X74
+controller=X74
+add_core=TKS
+add_core=X74
 trade_goods = wool
 life_rating = 35
+terrain = plains

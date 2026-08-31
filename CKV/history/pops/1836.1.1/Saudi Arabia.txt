@@ -1,691 +1,875 @@
-#Hijaz Region (440000)
-#under the "rule" of Egypt in 1836
-#Mecca (196000/49000 POPS)
 1151 = {
-	aristocrats = {
-		culture = mashriqi
-		religion = sunni
-		size = 400
-	}
-
-	bureaucrats = {
-		culture = mashriqi
-		religion = sunni
-		size = 100
-	}
-
-	officers = {
-		culture = mashriqi
-		religion = sunni
-		size = 125
-	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = sunni
-		size = 375
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = sunni
-		size = 6500
-	}
-
-	soldiers = {
-		culture = mashriqi
-		religion = sunni
-		size = 1100
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = sunni
-		size = 16500
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 400
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 125
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 1100
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 250
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 20125
-	}
-
-	slaves = {
+	slaves=
+	{
 		culture = african_minor
-		religion = animist
-		size = 2000
+		religion = sunni
+		size= 1830
 	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 448
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 1798
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 292
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 22
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 377
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 40125
+	}
+
 }
-#Jidda (100000/25000 POPS)
 1152 = {
-	aristocrats = {
-		culture = mashriqi
-		religion = sunni
-		size = 350
-	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = sunni
-		size = 175
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = sunni
-		size = 4500
-	}
-
-	soldiers = {
-		culture = mashriqi
-		religion = sunni
-		size = 1100
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = sunni
-		size = 21025
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 200
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 3625
-	}
-
-	slaves = {
+	slaves=
+	{
 		culture = african_minor
-		religion = animist
-		size = 3000
+		religion = sunni
+		size= 2700
 	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 308
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 1229
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 199
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 16
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 257
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 26001
+	}
+
 }
-#Medina (80000/20000 POPS)
 1153 = {
-	aristocrats = {
-		culture = mashriqi
-		religion = sunni
-		size = 250
-	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = sunni
-		size = 150
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = sunni
-		size = 1500
-	}
-
-	soldiers = {
-		culture = mashriqi
-		religion = sunni
-		size = 1100
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = sunni
-		size = 11100
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 75
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 200
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 3600
-	}
-
-	slaves = {
+	slaves=
+	{
 		culture = african_minor
-		religion = animist
-		size = 2000
+		religion = sunni
+		size= 1800
 	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 181
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 723
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 118
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 152
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 15092
+	}
+
 }
-#Tabuk (8000/2000 POPS)
 1154 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 25
+		size= 18
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 25
+		size= 72
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 100
+		size= 12
 	}
 
-	soldiers = {
+	officers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 25
+		size= 2
 	}
 
-	farmers = {
+	aristocrats=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 1825
+		size= 16
 	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 1680
+	}
+
 }
-#Abha (56000/14000 POPS)
 1155 = {
-	aristocrats = {
-		culture = mashriqi
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = sunni
-		size = 300
-	}
-
-	soldiers = {
-		culture = mashriqi
-		religion = sunni
-		size = 1100
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = sunni
-		size = 4550
-	}
-
-	aristocrats = {
+	soldiers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 150
+		size= 67
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 75
+		size= 268
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 350
+		size= 43
 	}
 
-	soldiers = {
+	bureaucrats=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 75
+		size= 3
 	}
 
-	farmers = {
+	officers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 7300
+		size= 5
 	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 6252
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 238
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 2
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 5558
+	}
+
 }
-#Badiyat al-Sham Region (20000)  #see Jordan.txt, Iraq.txt & Syria.txt for balance of region
-#under the "rule" of Egypt in 1836
-#Kaf (20000/5000 POPS) #now part of Saudi Arabia
 1156 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 75
+		size= 45
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 75
+		size= 180
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 200
+		size= 29
 	}
 
-	soldiers = {
+	bureaucrats=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size= 2
 	}
 
-	farmers = {
+	officers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 4600
+		size= 4
 	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 4202
+	}
+
 }
-#Nejd Region (204000)
-#under the rule of Nejd in 1836
-#Riyadh (116000/29000 POPS)
 1157 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = bedouin
-		religion = sunni
-		size = 500
+		religion = shiite
+		size= 150
 	}
 
-	bureaucrats = {
+	artisans=
+	{
 		culture = bedouin
-		religion = sunni
-		size = 25
+		religion = shiite
+		size= 600
 	}
 
-	officers = {
+	clergymen=
+	{
 		culture = bedouin
-		religion = sunni
-		size = 75
+		religion = shiite
+		size= 98
 	}
 
-	clergymen = {
+	bureaucrats=
+	{
 		culture = bedouin
-		religion = sunni
-		size = 325
+		religion = shiite
+		size= 8
 	}
 
-	artisans = {
+	officers=
+	{
 		culture = bedouin
-		religion = sunni
-		size = 1450
+		religion = shiite
+		size= 12
 	}
 
-	soldiers = {
+	aristocrats=
+	{
 		culture = bedouin
-		religion = sunni
-		size = 4000
+		religion = shiite
+		size= 126
 	}
 
-	farmers = {
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 13988
+	}
+
+	soldiers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 22625
+		size= 75
 	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 6994
+	}
+
 }
-#Rafha (20000/5000 POPS)
 1158 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 75
+		size= 40
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size= 160
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 250
+		size= 26
 	}
 
-	soldiers = {
+	bureaucrats=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 1100
+		size= 2
 	}
 
-	farmers = {
+	officers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 3675
+		size= 3
 	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 3726
+	}
+
 }
-#Halaban (28000/7000 POPS)
 1159 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 100
+		size= 56
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size= 225
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 325
+		size= 37
 	}
 
-	soldiers = {
+	bureaucrats=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 1100
+		size= 3
 	}
 
-	farmers = {
+	officers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 5525
+		size= 5
 	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 5236
+	}
+
 }
-#Hail (12000/3000 POPS)
 1160 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size= 23
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size= 93
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 125
+		size= 15
 	}
 
-	soldiers = {
+	bureaucrats=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 25
+		size= 1
 	}
 
-	farmers = {
+	officers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 2750
+		size= 2
 	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 2171
+	}
+
 }
-#Sharawah (28000/7000 POPS)
 1161 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 100
+		size= 28
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size= 110
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 325
+		size= 18
 	}
 
-	soldiers = {
+	bureaucrats=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 1100
+		size= 1
 	}
 
-	farmers = {
+	officers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 5525
+		size= 2
 	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 2569
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 110
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 1
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 2569
+	}
+
 }
-#Bahrain Region (204000) #see Gulf States.txt for balance of region  
-#under the rule of Nejd in 1836
-#Qatif (92000/23000 POPS)
 1163 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 100
+		size= 210
 	}
 
-	bureaucrats = {
+	artisans=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 25
+		size= 836
 	}
 
-	officers = {
+	clergymen=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size= 136
 	}
 
-	clergymen = {
+	bureaucrats=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 75
+		size= 10
 	}
 
-	artisans = {
+	officers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 350
+		size= 16
 	}
 
-	soldiers = {
+	aristocrats=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 1100
+		size= 176
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 5525
+		size= 19518
 	}
 
-	aristocrats = {
-		culture = bedouin
-		religion = shiite
-		size = 200
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = shiite
-		size = 150
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = shiite
-		size = 800
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = shiite
-		size = 175
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = shiite
-		size = 14675
-	}
 }
-#Hufuf (96000/POPS)
 1164 = {
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 175
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 550
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 1100
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 9175
-	}
-
-	aristocrats = {
+	soldiers=
+	{
 		culture = bedouin
 		religion = shiite
-		size = 225
+		size= 224
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = bedouin
 		religion = shiite
-		size = 125
+		size= 897
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = bedouin
 		religion = shiite
-		size = 650
+		size= 146
 	}
 
-	soldiers = {
+	bureaucrats=
+	{
 		culture = bedouin
 		religion = shiite
-		size = 125
+		size= 11
 	}
 
-	farmers = {
+	officers=
+	{
 		culture = bedouin
 		religion = shiite
-		size = 11875
+		size= 18
 	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 188
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 20931
+	}
+
 }
-#Ahsa (16000/4000 POPS)
 2586 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = bedouin
-		religion = sunni
-		size = 50
+		religion = shiite
+		size= 32
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = bedouin
-		religion = sunni
-		size = 75
+		religion = shiite
+		size= 130
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = bedouin
-		religion = sunni
-		size = 200
+		religion = shiite
+		size= 21
 	}
 
-	soldiers = {
+	bureaucrats=
+	{
 		culture = bedouin
-		religion = sunni
-		size = 25
+		religion = shiite
+		size= 2
 	}
 
-	farmers = {
+	officers=
+	{
 		culture = bedouin
-		religion = sunni
-		size = 3850
+		religion = shiite
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 3041
 	}
 
 }

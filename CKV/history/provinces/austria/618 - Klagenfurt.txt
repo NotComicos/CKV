@@ -1,6 +1,8 @@
-owner = NGF
-controller = NGF
-add_core = NGF
-add_core = GER
+owner=GER
+controller=GER
+add_core=GER
+add_core=SLO
+add_core=YUG
 trade_goods = coal
 life_rating = 35
+terrain = woods

@@ -1,5 +1,8 @@
-owner = BUY
-controller = BUY
-add_core = BUY
+owner=X04
+controller=X04
+add_core=PER
+add_core=X04
+add_core=X29
 trade_goods = cotton
 life_rating = 35
+terrain = mountain

@@ -1,5 +1,7 @@
-owner = UMA
-controller = UMA
-add_core = UMA
+owner=GLC
+controller=GLC
+add_core=GLC
+add_core=POR
 trade_goods = fruit
 life_rating = 35
+terrain = plains

@@ -1,5 +1,6 @@
-owner = POR
-controller = POR
-add_core = POR
+owner=TNG
+controller=TNG
+add_core=TNG
 trade_goods = tea
 life_rating = 32
+terrain = plains

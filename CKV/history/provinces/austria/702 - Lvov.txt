@@ -1,5 +1,9 @@
-owner = PCH
-controller = PCH
-add_core = PCH
+owner=X72
+controller=VOL
+add_core=PCH
+add_core=UKR
+add_core=WSF
+add_core=X72
 trade_goods = coal
 life_rating = 35
+terrain = woods

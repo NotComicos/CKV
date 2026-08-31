@@ -1,11 +1,9 @@
-owner = AWA
-controller = AWA
-add_core = AWA
-add_core = HND
+owner=W27
+controller=X79
+add_core=GRK
+add_core=HND
+add_core=W27
+add_core=X79
 trade_goods = timber
 life_rating = 32
-1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	colonial = 2
-}
+terrain = plains

@@ -1,6 +1,8 @@
-owner = MGL
-controller = MGL
-add_core = MGL
-add_core = CHI
+owner=LIO
+controller=LIO
+add_core=KHA
+add_core=LIO
+add_core=MGL
 trade_goods = coal
 life_rating = 35
+terrain = woods

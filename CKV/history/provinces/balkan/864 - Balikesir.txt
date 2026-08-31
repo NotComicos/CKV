@@ -1,5 +1,13 @@
-owner = BYZ
-controller = BYZ
-add_core = BYZ
+owner=BYZ
+controller=BYZ
+add_core=BYZ
+add_core=GRE
 trade_goods = grain
 life_rating = 35
+terrain = hills
+state_building=
+{
+	level=1
+	building = cement_factory
+	upgrade = yes
+}

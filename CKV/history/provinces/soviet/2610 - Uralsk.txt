@@ -1,5 +1,6 @@
-owner = CRI
-controller = CRI
-add_core = CRI
+owner=X75
+controller=X75
+add_core=X75
 trade_goods = wool
 life_rating = 35
+terrain = woods

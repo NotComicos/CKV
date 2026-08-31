@@ -1,7 +1,8 @@
-owner = SWT
-controller = SWT
-add_core = SWT
-add_core = SCA
+owner=W26
+controller=W26
+add_core=SCA
+add_core=SMI
+add_core=W26
 trade_goods = timber
 life_rating = 35
-
+terrain = forest

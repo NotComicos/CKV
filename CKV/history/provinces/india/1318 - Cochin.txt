@@ -1,6 +1,7 @@
-owner = TRA
-controller = TRA
-add_core = HND
-add_core = TRA
+owner=X88
+controller=X88
+add_core=HND
+add_core=X88
 trade_goods = grain
 life_rating = 32
+terrain = hills

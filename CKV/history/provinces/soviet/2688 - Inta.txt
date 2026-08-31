@@ -1,2 +1,7 @@
-trade_goods = timber
-life_rating = 1
+owner=X86
+controller=X86
+add_core=UGR
+add_core=X86
+trade_goods = fish
+life_rating = 15
+terrain = arctic

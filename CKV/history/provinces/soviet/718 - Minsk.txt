@@ -1,12 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = BYE
-add_core = PLC
+owner=W11
+controller=W11
+add_core=BYE
+add_core=W11
 trade_goods = timber
 life_rating = 35
-#state_building = {
-#	level = 1
-#	building = liquor_distillery
-#	upgrade = yes
-#}
+terrain = farmlands

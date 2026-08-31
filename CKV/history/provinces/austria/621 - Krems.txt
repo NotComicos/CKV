@@ -1,6 +1,8 @@
-owner = NGF
-controller = NGF
-add_core = NGF
-add_core = GER
+owner=HUN
+controller=HUN
+add_core=HUN
+add_core=SLV
+add_core=WSF
 trade_goods = grain
 life_rating = 35
+terrain = hills

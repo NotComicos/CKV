@@ -1,2 +1,7 @@
+owner=W49
+controller=W49
+add_core=W49
 trade_goods = fruit
-life_rating = 1
+life_rating = 35
+terrain = plains
+fort = 2

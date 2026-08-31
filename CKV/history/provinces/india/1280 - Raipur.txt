@@ -1,11 +1,7 @@
-owner = NAG
-controller = NAG
-add_core = NAG
-add_core = HND
+owner=X91
+controller=X91
+add_core=HND
+add_core=X91
 trade_goods = dye
 life_rating = 32
-1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	colonial = 2
-}
+terrain = hills

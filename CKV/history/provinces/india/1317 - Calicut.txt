@@ -1,7 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = MYS
-add_core = HND
+owner=X88
+controller=X88
+add_core=HND
+add_core=X88
 trade_goods = tea
 life_rating = 32
-colonial = 1
+terrain = hills

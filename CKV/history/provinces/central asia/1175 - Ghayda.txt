@@ -1,5 +1,7 @@
-owner = YEM
-controller = YEM
-add_core = YEM
+owner=RAS
+controller=RAS
+add_core=ARA
+add_core=RAS
 trade_goods = opium
 life_rating = 35
+terrain = desert

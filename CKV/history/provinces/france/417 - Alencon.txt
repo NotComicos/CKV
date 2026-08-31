@@ -1,6 +1,13 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner=W36
+controller=W36
+add_core=FRA
+add_core=W36
 trade_goods = cotton
 life_rating = 32
-1861.1.1 = { railroad = 3 }
+terrain = plains
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

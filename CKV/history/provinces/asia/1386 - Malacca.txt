@@ -1,6 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = JOH
+owner=MLC
+controller=MLC
+add_core=MLC
+add_core=MLY
 trade_goods = tropical_wood
 life_rating = 30
-colonial = 2
+terrain = plains

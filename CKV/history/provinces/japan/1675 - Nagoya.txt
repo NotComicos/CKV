@@ -1,10 +1,7 @@
-owner = JAP
-controller = JAP
-add_core = JAP
+owner=ASK
+controller=ASK
+add_core=ASK
+add_core=JAP
 trade_goods = silk
 life_rating = 35
-#state_building = {
-#	level = 1
-#	building = glass_factory
-#	upgrade = yes
-#}
+terrain = hills

@@ -1,5 +1,7 @@
-owner = NET
-controller = NET
+owner=BNJ
+controller=BNJ
+add_core=BNJ
+add_core=MLY
 trade_goods = sulphur
 life_rating = 30
-colonial = 2
+terrain = plains

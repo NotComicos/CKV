@@ -1,5 +1,8 @@
-owner = BUK
-controller = BUK
-add_core = BUK
+owner=TRX
+controller=TRX
+add_core=TKS
+add_core=TRX
+add_core=X74
 trade_goods = opium
 life_rating = 35
+terrain = steppe

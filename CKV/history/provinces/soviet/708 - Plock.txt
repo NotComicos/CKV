@@ -1,6 +1,8 @@
-owner = MAZ
-controller = MAZ
-add_core = MAZ
+owner=POL
+controller=MAZ
+add_core=MAZ
+add_core=POL
+add_core=WSF
 trade_goods = fruit
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+terrain = farmlands

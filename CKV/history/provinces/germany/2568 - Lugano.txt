@@ -1,5 +1,7 @@
-owner = ITA
-controller = ITA
-add_core = ITA
+owner=GER
+controller=GER
+add_core=GER
+add_core=SWI
 trade_goods = wool
 life_rating = 40
+terrain = mountain

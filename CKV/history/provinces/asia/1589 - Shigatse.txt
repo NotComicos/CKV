@@ -1,5 +1,7 @@
-owner = TIB
-controller = TIB
-add_core = TIB
+owner=X48
+controller=X48
+add_core=TIB
+add_core=X48
 trade_goods = cattle
 life_rating = 30
+terrain = hills

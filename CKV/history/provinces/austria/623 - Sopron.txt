@@ -1,6 +1,12 @@
-owner = HUN
-controller = HUN
-add_core = HUN
+owner=HUN
+controller=HUN
+add_core=HUN
 trade_goods = fruit
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+terrain = plains
+state_building=
+{
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}

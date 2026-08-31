@@ -1,5 +1,7 @@
-owner = GEO
-controller = GEO
-add_core = GEO
+owner=X94
+controller=X94
+add_core=ARM
+add_core=X94
 trade_goods = grain
 life_rating = 35
+terrain = mountain

@@ -1,6 +1,8 @@
-owner = KRA
-controller = KRA
-add_core = KRA
+owner=X44
+controller=X44
+add_core=UKR
+add_core=WSF
+add_core=X44
 trade_goods = coal
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+terrain = woods

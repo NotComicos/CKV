@@ -1,15 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner=JOA
+controller=CHE
+add_core=JOA
 trade_goods = tobacco
 life_rating = 35
-1861.1.1 = {
-	controller = CSA
-	owner = CSA
-	add_core = CSA
-	state_building = {
-		level = 1
-		building = regular_clothes_factory
-		upgrade = yes
-	}
-}
+terrain = mountain

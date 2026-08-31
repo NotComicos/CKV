@@ -1,5 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = RUS
+owner=HOD
+controller=CHU
+add_core=HOD
+add_core=YAK
 trade_goods = fish
 life_rating = 20
+terrain = mountain

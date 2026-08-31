@@ -1,5 +1,7 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner=GLC
+controller=GLC
+add_core=GLC
+add_core=POR
 trade_goods = fruit
 life_rating = 35
+terrain = hills

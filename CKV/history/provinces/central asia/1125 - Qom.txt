@@ -1,5 +1,7 @@
-owner = PER
-controller = PER
-add_core = PER
+owner=QOM
+controller=QOM
+add_core=PER
+add_core=QOM
 trade_goods = grain
 life_rating = 35
+terrain = hills

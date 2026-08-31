@@ -1,6 +1,8 @@
-owner = LIT
-controller = LIT
-add_core = LIT
+owner=PRU
+controller=PRU
+add_core=PRT
+add_core=PRU
+add_core=UBD
 trade_goods = grain
 life_rating = 40
-1861.1.1 = { railroad = 3 }
+terrain = plains

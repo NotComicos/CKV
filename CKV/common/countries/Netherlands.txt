@@ -1,31 +1,31 @@
-color = { 220  138  57 }
 graphical_culture = EuropeanGC
+color = { 220  138  57 }
 
 party = {
 	name = "HOL_conservative"
-	start_date = 1830.1.1
+	start_date = 1000.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative
 
-	economic_policy = interventionism
-	trade_policy = protectionism
-	religious_policy = moralism
 	citizenship_policy = residency
+	economic_policy = interventionism
+	religious_policy = moralism
+	trade_policy = protectionism
 	war_policy = pro_military
 }
 
 party = {
 	name = "HOL_liberal"
-	start_date = 1830.1.1
+	start_date = 1680.1.1
 	end_date = 1886.1.1
 
 	ideology = liberal
 
-	economic_policy = laissez_faire
-	trade_policy = free_trade
-	religious_policy = pluralism
 	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
 	war_policy = anti_military
 }
 
@@ -36,10 +36,10 @@ party = {
 
 	ideology = liberal
 
-	economic_policy = laissez_faire
-	trade_policy = free_trade
-	religious_policy = pluralism
 	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	trade_policy = free_trade
 	war_policy = anti_military
 }
 
@@ -50,10 +50,10 @@ party = {
 
 	ideology = liberal
 
-	economic_policy = laissez_faire
-	trade_policy = free_trade
-	religious_policy = moralism
 	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = moralism
+	trade_policy = free_trade
 	war_policy = anti_military
 }
 
@@ -64,10 +64,10 @@ party = {
 
 	ideology = anarcho_liberal
 
-	economic_policy = state_capitalism
-	trade_policy = protectionism
-	religious_policy = moralism
 	citizenship_policy = full_citizenship
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
 	war_policy = jingoism
 }
 
@@ -78,10 +78,10 @@ party = {
 
 	ideology = communist
 
-	economic_policy = planned_economy
-	trade_policy = protectionism
-	religious_policy = pro_atheism
 	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
 	war_policy = anti_military
 }
 
@@ -92,10 +92,10 @@ party = {
 
 	ideology = socialist
 
-	economic_policy = state_capitalism
-	trade_policy = protectionism
-	religious_policy = secularized
 	citizenship_policy = full_citizenship
+	economic_policy = state_capitalism
+	religious_policy = secularized
+	trade_policy = protectionism
 	war_policy = pacifism
 }
 
@@ -106,10 +106,10 @@ party = {
 
 	ideology = liberal
 
-	economic_policy = laissez_faire
-	trade_policy = free_trade
-	religious_policy = moralism
 	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = moralism
+	trade_policy = free_trade
 	war_policy = anti_military
 }
 
@@ -120,24 +120,24 @@ party = {
 
 	ideology = liberal
 
-	economic_policy = laissez_faire
-	trade_policy = free_trade
-	religious_policy = secularized
 	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = secularized
+	trade_policy = free_trade
 	war_policy = anti_military
 }
 
 party = {
 	name = "HOL_reactionary"
-	start_date = 1820.1.1
+	start_date = 1790.1.1
 	end_date = 2000.1.1
 
 	ideology = reactionary
 
-	economic_policy = state_capitalism
-	trade_policy = protectionism
-	religious_policy = moralism
 	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
 	war_policy = jingoism
 }
 
@@ -148,10 +148,10 @@ party = {
 
 	ideology = communist
 
-	economic_policy = planned_economy
-	trade_policy = protectionism
-	religious_policy = pro_atheism
 	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	trade_policy = protectionism
 	war_policy = pro_military
 }
 
@@ -162,48 +162,42 @@ party = {
 
 	ideology = fascist
 
-	economic_policy = state_capitalism
-	trade_policy = protectionism
-	religious_policy = moralism
 	citizenship_policy = residency
+	economic_policy = state_capitalism
+	religious_policy = moralism
+	trade_policy = protectionism
 	war_policy = jingoism
 }
 
 unit_names = {
 	dreadnought = {
-		"De Ruyter" "Tromp" "De Zeven Provincien" "Evertsen" "Kortenaer" "Piet Hein" "Witte de With" "Jacob van Heemskerk" 
+		"De Ruyter" Tromp "De Zeven Provincien" Evertsen Kortenaer "Piet Hein" "Witte de With" "Jacob van Heemskerk"
 	}
 	battleship = {
 		Buffel "De Zeven Provinciën" Evertsen Guinea "Hertog Hendrik" "Jacob van Heemskerck" "Koning der Nederlanden" "Koningin Regentes" Kortenaer "Maarten Harpetsz. Tromp" "Piet Hein" "De Ruyter" Schorpioen Stier
 	}
 	ironclad = {
-		"Hertog Hendrik" "Koning der Nederlanden" "Koningin Regentes" "Koning Willem" "Prins Hendrik" 
-	}
-	cruiser = {
-		"Java" "Banckert" "Callenburgh" "Isaac Sweers" "Van Ghent" "Aert van Nes" "Tjerk Hiddes" "Van Galen" "Abraham van der Hulst" "Van Speijck" "Adolf Hertog van Nassau" 
-"Anna Paulowna" "Zoutman" "Johan Willem Friso" "Van Kinsbergen" 
-"Pieter Florisz" "Philips van Almonde" 
- "Bloys van Treslong" "Jan van Brakel" "Van Amstel" "Willem van der Zaan" 
-	}
-	frigate = {
-		"Wolf" "Fret" "Hermelijn" "Vos" "Panter" "Jaguar" "Lynx" "Leeuw" "Jakhals"  
-	}
-	monitor = {
-		"Buffel" "Guinea" "Schorpioen" "Stier" 
+		"Hertog Hendrik" "Koning der Nederlanden" "Koningin Regentes" "Koning Willem" "Prins Hendrik"
 	}
 	manowar = {
-		"Admiraal Generaal" "Beschermer" "Brederode" "Campen" "Eendracht" "Eenhoorn" "Frederik Hendrik" "Gouden Leeuw" 
-"Graaf Willem" "Groote Liefde" "Jozua" "Kameel" "Kapitein Generaal" "Landman" "Louisa Hendrika" "Overwinnaer" "Prinses Amalia" 
-"Prinses Roijaal" "Prins Friso" "Prins Willem" "Rosenkrans" "Salamander" "Vergulde Maen" "Verwachting" "Unie" "Vrede" "Vrijheid" "Witte Lam" 
+		"Admiraal Generaal" Beschermer Brederode Campen Eendracht Eenhoorn "Frederik Hendrik" "Gouden Leeuw" "Graaf Willem" "Groote Liefde" Jozua Kameel "Kapitein Generaal" Landman "Louisa Hendrika" Overwinnaer "Prinses Amalia" "Prinses Roijaal" "Prins Friso" "Prins Willem" Rosenkrans Salamander "Vergulde Maen" Verwachting Unie Vrede Vrijheid "Witte Lam"
 	}
-	commerce_raider = {
-		"Atjeh" "Brabant" "Curacao" "Holland" "Friesland" "Gelderland" "Groningen" "Limburg" "Overijssel" "Suriname" "Utrecht" "Zeeland" 
-		
+	cruiser = {
+		Java Banckert Callenburgh "Isaac Sweers" "Van Ghent" "Aert van Nes" "Tjerk Hiddes" "Van Galen" "Abraham van der Hulst" "Van Speijck" "Adolf Hertog van Nassau" "Anna Paulowna" Zoutman "Johan Willem Friso" "Van Kinsbergen" "Pieter Florisz" "Philips van Almonde" "Bloys van Treslong" "Jan van Brakel" "Van Amstel" "Willem van der Zaan"
+	}
+	frigate = {
+		Wolf Fret Hermelijn Vos Panter Jaguar Lynx Leeuw Jakhals
+	}
+	monitor = {
+		Buffel Guinea Schorpioen Stier
 	}
 	clipper_transport = {
-		"Amsterdam" "Assendelft" "Batavia" "Delfland" "Dordrecht" "Gouda" "Haarlem" "Hoorn" "Leyden" "Medemblick" "Middelburg" "Rotterdam" "Soerabaja" "Utrecht" "Veere" "Vlissingen" "Willemstad" "Zierikzee" 
+		Amsterdam Assendelft Batavia Delfland Dordrecht Gouda Haarlem Hoorn Leyden Medemblick Middelburg Rotterdam Soerabaja Utrecht Veere Vlissingen Willemstad Zierikzee
 	}
 	steam_transport = {
-		"Castor" "Jupiter" "Maan" "Mars" "Mercurius" "Neptunes" "Pollux" "Poolster" "Venus" "Zon" "Zuiderkruis"
+		Castor Jupiter Maan Mars Mercurius Neptunes Pollux Poolster Venus Zon Zuiderkruis
+	}
+	commerce_raider = {
+		Atjeh Brabant Curacao Holland Friesland Gelderland Groningen Limburg Overijssel Suriname Utrecht Zeeland
 	}
 }

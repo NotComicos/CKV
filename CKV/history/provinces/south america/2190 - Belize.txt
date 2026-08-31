@@ -1,7 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = GUA
-add_core = UCA
+owner=CCT
+controller=CCT
+add_core=CCT
 trade_goods = fruit
 life_rating = 30
-colonial = 2
+terrain = jungle

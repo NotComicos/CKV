@@ -1,2 +1,6 @@
+owner=X00
+controller=X00
+add_core=X00
 trade_goods = fruit
-life_rating = 1
+life_rating = 35
+terrain = hills

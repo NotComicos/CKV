@@ -1,11 +1,7 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner=EGY
+controller=EGY
+add_core=EGY
+add_core=IRQ
 trade_goods = grain
 life_rating = 35
-
-1861.1.1 = {
-	controller = TUR 
-	owner = TUR
-	colonial = 0
-}
+terrain = hills

@@ -1,381 +1,663 @@
-#Trondelag-Nordland Region - 304000
-#Trondheim (140000/35000 POPS)
 305 = {
-	bureaucrats = {
+	soldiers=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 300
+		religion = animist
+		size= 316
 	}
 
-	officers = {
+	craftsmen=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 50
+		religion = animist
+		size= 8170
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 150
+		religion = animist
+		size= 1264
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 3250
+		religion = animist
+		size= 205
 	}
 
-	soldiers = {
+	clerks=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 1100
+		religion = animist
+		size= 493
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 30250
+		religion = animist
+		size= 32
 	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 25
+	}
+
+	capitalists=
+	{
+		culture = norwegian
+		religion = animist
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = animist
+		size= 265
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 20732
+	}
+
 }
-#Bodo (56000/14000 POPS)
 306 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 50
+		religion = animist
+		size= 127
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 750
+		religion = animist
+		size= 508
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 100
+		religion = animist
+		size= 82
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 12100
+		religion = animist
+		size= 13
 	}
 
-	farmers = {
-		culture = finnish
-		religion = protestant
-		size = 1100
+	officers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 10
 	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = animist
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 11843
+	}
+
 }
-#Hammerfest (36000/9000 POPS)
 307 = {
-	clergymen = {
-		culture = norwegian
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = norwegian
-		religion = protestant
-		size = 500
-	}
-
-	soldiers = {
-		culture = norwegian
-		religion = protestant
-		size = 50
-	}
-
-	farmers = {
-		culture = norwegian
-		religion = protestant
-		size = 4400
-	}
-
-	farmers = {
+	soldiers=
+	{
 		culture = sami
-		religion = protestant
-		size = 2000
+		religion = animist
+		size= 81
 	}
 
-	farmers = {
-		culture = finnish
-		religion = protestant
-		size = 2000
+	artisans=
+	{
+		culture = sami
+		religion = animist
+		size= 324
 	}
+
+	clergymen=
+	{
+		culture = sami
+		religion = animist
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = sami
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = sami
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = sami
+		religion = animist
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = sami
+		religion = animist
+		size= 7560
+	}
+
 }
-#Alesund (72000/18000 POPS)
 308 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 75
+		religion = animist
+		size= 163
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 1100
+		religion = animist
+		size= 652
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 100
+		religion = animist
+		size= 106
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 16825
+		religion = animist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = animist
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 15203
 	}
 
 }
-#Jan Mayen (60/15 POPS)
-3246 = {
-	farmers = {
-		culture = norwegian
-		religion = protestant
-		size = 15
-	}
-}
-
-#Vestlandet-Sorlandet Region : 544000
-#Bergen (180000/45000 POPS)
 309 = {
-	bureaucrats = {
+	soldiers=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 500
+		religion = animist
+		size= 419
 	}
 
-	officers = {
+	craftsmen=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 100
+		religion = animist
+		size= 8170
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 200
+		religion = animist
+		size= 1678
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 5000
+		religion = animist
+		size= 273
 	}
 
-	soldiers = {
+	clerks=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 1100
+		religion = animist
+		size= 493
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 38200
+		religion = animist
+		size= 42
 	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 34
+	}
+
+	capitalists=
+	{
+		culture = norwegian
+		religion = animist
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = animist
+		size= 352
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 30398
+	}
+
 }
-#Christiansand (164000/41000 POPS)
 310 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 175
+		religion = animist
+		size= 370
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 2000
+		religion = animist
+		size= 1480
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 1100
+		religion = animist
+		size= 240
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 37825
+		religion = animist
+		size= 36
 	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = animist
+		size= 310
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 34524
+	}
+
 }
-#Skien (68000/17000 POPS)
 311 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 75
+		religion = animist
+		size= 153
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 750
+		religion = animist
+		size= 612
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 100
+		religion = animist
+		size= 99
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 16075
+		religion = animist
+		size= 15
 	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = animist
+		size= 129
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 14280
+	}
+
 }
-#Drammen (132000/33000 POPS)
 312 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 125
+		religion = animist
+		size= 302
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 2000
+		religion = animist
+		size= 1206
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 250
+		religion = animist
+		size= 196
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 31125
+		religion = animist
+		size= 30
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = animist
+		size= 253
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 28139
 	}
 
 }
-#Ostlandet Region - 352000
-#Christiania (108000/27000 POPS)
 313 = {
-	bureaucrats = {
+	soldiers=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 500
+		religion = animist
+		size= 244
 	}
 
-	officers = {
+	artisans=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 100
+		religion = animist
+		size= 976
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 125
+		religion = animist
+		size= 159
 	}
 
-	artisans = {
+	bureaucrats=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 7000
+		religion = animist
+		size= 24
 	}
 
-	soldiers = {
+	officers=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 1100
+		religion = animist
+		size= 20
 	}
 
-	farmers = {
+	aristocrats=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 18275
+		religion = animist
+		size= 205
 	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 22762
+	}
+
 }
-#Hamar (80000/20000 POPS)
 314 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 100
+		religion = animist
+		size= 181
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 1100
+		religion = animist
+		size= 724
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 150
+		religion = animist
+		size= 118
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 18750
+		religion = animist
+		size= 18
 	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = animist
+		size= 152
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 16883
+	}
+
 }
-#Lillehammer (96000/24000 POPS)
 315 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 125
+		religion = animist
+		size= 216
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 1250
+		religion = animist
+		size= 864
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 200
+		religion = animist
+		size= 140
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 22425
+		religion = animist
+		size= 22
 	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = animist
+		size= 181
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 20160
+	}
+
 }
-#Frederiksstad (68000/17000 POPS)
 316 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 75
+		religion = animist
+		size= 158
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 750
+		religion = animist
+		size= 632
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 150
+		religion = animist
+		size= 103
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = norwegian
-		religion = protestant
-		size = 16025
+		religion = animist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = animist
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = animist
+		size= 14756
+	}
+
+}
+3246 = {
+	farmers=
+	{
+		culture = icelandic
+		religion = animist
+		size= 14
 	}
 
 }

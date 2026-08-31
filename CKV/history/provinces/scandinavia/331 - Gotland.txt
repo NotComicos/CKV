@@ -1,6 +1,8 @@
-owner = SWT
-controller = SWT
-add_core = SWT
-add_core = SCA
+owner=GOT
+controller=GOT
+add_core=GOT
+add_core=SCA
+add_core=SWE
 trade_goods = grain
 life_rating = 35
+terrain = plains

@@ -1,7 +1,8 @@
-owner = ENG
-controller = ENG
-add_core = HND
+owner=BNG
+controller=BNG
+add_core=BNG
+add_core=HND
+add_core=W30
 trade_goods = silk
 life_rating = 32
-colonial = 1
-1861.1.1 = { railroad = 3 }
+terrain = jungle

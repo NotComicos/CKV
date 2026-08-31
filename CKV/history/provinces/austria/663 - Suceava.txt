@@ -1,5 +1,8 @@
-owner = PCH
-controller = PCH
-add_core = PCH
+owner=BUL
+controller=BUL
+add_core=BUL
+add_core=UKR
+add_core=WSF
 trade_goods = cattle
 life_rating = 35
+terrain = woods

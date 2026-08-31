@@ -1,5 +1,8 @@
-owner = LIT
-controller = LIT
-add_core = LIT
+owner=W41
+controller=W41
+add_core=LIT
+add_core=UBD
+add_core=W41
 trade_goods = grain
 life_rating = 35
+terrain = plains

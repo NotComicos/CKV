@@ -1,5 +1,6 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner=W46
+controller=W46
+add_core=W46
 trade_goods = fruit
 life_rating = 35
+terrain = plains

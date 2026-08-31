@@ -1,6 +1,8 @@
-owner = MGL
-controller = MGL
-add_core = CHI
-add_core = MGL
+owner=X77
+controller=X77
+add_core=KHA
+add_core=MGL
+add_core=X77
 trade_goods = timber
 life_rating = 32
+terrain = plains

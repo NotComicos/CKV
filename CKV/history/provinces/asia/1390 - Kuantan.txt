@@ -1,5 +1,7 @@
-owner = JOH
-controller = JOH
-add_core = JOH
+owner=PHG
+controller=PHG
+add_core=MLY
+add_core=PHG
 trade_goods = timber
 life_rating = 30
+terrain = hills

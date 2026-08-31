@@ -1,5 +1,8 @@
-owner = LUA
-controller = LUA
-add_core = LUA
+owner=LXA
+controller=LXA
+add_core=IDO
+add_core=LUA
+add_core=LXA
 trade_goods = tobacco
 life_rating = 30
+terrain = hills

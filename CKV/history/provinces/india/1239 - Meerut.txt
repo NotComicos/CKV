@@ -1,7 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = MUG
-add_core = HND
+owner=W40
+controller=W40
+add_core=HND
+add_core=W40
 trade_goods = grain
 life_rating = 32
-colonial = 2
+terrain = plains

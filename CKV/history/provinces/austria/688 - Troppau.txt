@@ -1,6 +1,8 @@
-owner = BOH
-controller = BOH
-add_core = BOH
+owner=MRV
+controller=MRV
+add_core=MRV
+add_core=SLV
+add_core=WSF
 trade_goods = coal
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+terrain = plains

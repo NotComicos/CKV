@@ -1,5 +1,7 @@
-owner = PER
-controller = PER
-add_core = PER
+owner=X07
+controller=X07
+add_core=PER
+add_core=X07
 trade_goods = cotton
 life_rating = 35
+terrain = mountain

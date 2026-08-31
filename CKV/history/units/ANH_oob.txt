@@ -1,3 +1,6 @@
-PRU = {
-	value = 125
-}
+#Sphere of Influence
+
+
+#Leaders
+
+#Armies

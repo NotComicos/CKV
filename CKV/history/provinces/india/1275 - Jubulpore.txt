@@ -1,7 +1,8 @@
-owner = ENG
-controller = ENG
-add_core = NAG
-add_core = HND
+owner=GDW
+controller=GDW
+add_core=BUN
+add_core=GDW
+add_core=HND
 trade_goods = dye
 life_rating = 32
-colonial = 2
+terrain = mountain

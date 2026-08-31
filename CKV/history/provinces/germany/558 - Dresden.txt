@@ -1,11 +1,12 @@
-owner = NGF
-controller = NGF
-add_core = NGF
-add_core = GER
+owner=GER
+controller=GER
+add_core=GER
 trade_goods = coal
 life_rating = 40
-state_building = {
-	level = 1
-	building = fabric_factory
+terrain = woods
+state_building=
+{
+	level=1
+	building = glass_factory
 	upgrade = yes
 }

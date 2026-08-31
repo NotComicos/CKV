@@ -1,6 +1,7 @@
-owner = KUT
-controller = KUT
-add_core = KUT
-add_core = HND
+owner=X79
+controller=X79
+add_core=HND
+add_core=X79
 trade_goods = cotton
 life_rating = 32
+terrain = plains

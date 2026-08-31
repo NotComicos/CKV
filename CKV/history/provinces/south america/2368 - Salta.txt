@@ -1,6 +1,6 @@
-owner = ARG
-controller = ARG
-add_core = BOL
-add_core = ARG
+owner=CCQ
+controller=CCQ
+add_core=CCQ
 trade_goods = wool
-life_rating = 35
+life_rating = 35
+terrain = mountain

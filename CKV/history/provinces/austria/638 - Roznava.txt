@@ -1,5 +1,8 @@
-owner = HUN
-controller = HUN
-add_core = HUN
+owner=X40
+controller=X40
+add_core=SLV
+add_core=WSF
+add_core=X40
 trade_goods = coal
 life_rating = 35
+terrain = hills

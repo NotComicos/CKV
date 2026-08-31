@@ -1,683 +1,663 @@
-#Ostrobothnia Region (120000)
-#under the rule of Russia in 1836
-#Oulu (64000/16000 POPS)
 336 = {
-	bureaucrats = {
+	soldiers=
+	{
 		culture = finnish
-		religion = protestant
-		size = 150
+		religion = animist
+		size= 144
 	}
 
-	officers = {
+	artisans=
+	{
 		culture = finnish
-		religion = protestant
-		size = 25
+		religion = animist
+		size= 576
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = finnish
-		religion = protestant
-		size = 150
+		religion = animist
+		size= 94
 	}
 
-	artisans = {
+	bureaucrats=
+	{
 		culture = finnish
-		religion = protestant
-		size = 800
+		religion = animist
+		size= 14
 	}
 
-	soldiers = {
+	officers=
+	{
 		culture = finnish
-		religion = protestant
-		size = 150
+		religion = animist
+		size= 12
 	}
 
-	farmers = {
+	aristocrats=
+	{
 		culture = finnish
-		religion = protestant
-		size = 14725
+		religion = animist
+		size= 121
 	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 13439
+	}
+
 }
-#Kajaani (16000/4000 POPS)
 337 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = finnish
-		religion = protestant
-		size = 50
+		religion = animist
+		size= 36
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = finnish
-		religion = protestant
-		size = 200
+		religion = animist
+		size= 144
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = finnish
-		religion = protestant
-		size = 25
+		religion = animist
+		size= 23
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = finnish
-		religion = protestant
-		size = 3725
+		religion = animist
+		size= 4
 	}
+
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 3360
+	}
+
 }
-#Tornio (40000/10000 POPS)
 338 = {
-	clergymen = {
-		culture = finnish
-		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = finnish
-		religion = protestant
-		size = 475
-	}
-
-	soldiers = {
-		culture = finnish
-		religion = protestant
-		size = 100
-	}
-
-	farmers = {
-		culture = finnish
-		religion = protestant
-		size = 8825
-	}
-
-	farmers = {
+	soldiers=
+	{
 		culture = sami
-		religion = protestant
-		size = 500
+		religion = animist
+		size= 90
 	}
+
+	artisans=
+	{
+		culture = sami
+		religion = animist
+		size= 360
+	}
+
+	clergymen=
+	{
+		culture = sami
+		religion = animist
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = sami
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = sami
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = sami
+		religion = animist
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = sami
+		religion = animist
+		size= 8378
+	}
+
 }
-#Karelia Region (524000)
-#under the rule of Russia in 1836
-#Viipuri (192000/48000 POPS) #now part of Russia
 339 = {
-	bureaucrats = {
+	soldiers=
+	{
 		culture = finnish
-		religion = protestant
-		size = 50
+		religion = animist
+		size= 462
 	}
 
-	officers = {
+	artisans=
+	{
 		culture = finnish
-		religion = protestant
-		size = 100
+		religion = animist
+		size= 1844
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = finnish
-		religion = protestant
-		size = 400
+		religion = animist
+		size= 300
 	}
 
-	artisans = {
+	bureaucrats=
+	{
 		culture = finnish
-		religion = protestant
-		size = 2150
+		religion = animist
+		size= 46
 	}
 
-	soldiers = {
+	officers=
+	{
 		culture = finnish
-		religion = protestant
-		size = 400
+		religion = animist
+		size= 36
 	}
 
-	farmers = {
+	aristocrats=
+	{
 		culture = finnish
-		religion = protestant
-		size = 42700
+		religion = animist
+		size= 388
 	}
 
-	clergymen = {
+	farmers=
+	{
 		culture = finnish
-		religion = orthodox
-		size = 50
+		religion = animist
+		size= 43026
 	}
 
-	artisans = {
-		culture = finnish
-		religion = orthodox
-		size = 250
-	}
-
-	soldiers = {
-		culture = finnish
-		religion = orthodox
-		size = 50
-	}
-
-	farmers = {
-		culture = finnish
-		religion = orthodox
-		size = 4650
-	}
-
-	aristocrats = {
-		culture = russian
-		religion = orthodox
-		size = 50
-	}
-
-	bureaucrats = {
-		culture = russian
-		religion = orthodox
-		size = 150
-	}
-
-	officers = {
-		culture = russian
-		religion = orthodox
-		size = 50
-	}
-
-	clergymen = {
-		culture = russian
-		religion = orthodox
-		size = 25
-	}
-
-	artisans = {
-		culture = russian
-		religion = orthodox
-		size = 50
-	}
-
-	soldiers = {
-		culture = russian
-		religion = orthodox
-		size = 100
-	}
 }
-#Kotka (64000/16000 POPS)
 340 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = finnish
-		religion = protestant
-		size = 125
+		religion = animist
+		size= 144
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = finnish
-		religion = protestant
-		size = 750
+		religion = animist
+		size= 576
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = finnish
-		religion = protestant
-		size = 150
+		religion = animist
+		size= 94
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = finnish
-		religion = protestant
-		size = 13975
+		religion = animist
+		size= 14
 	}
 
-	clergymen = {
-		culture = swedish
-		religion = protestant
-		size = 15
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 12
 	}
 
-	artisans = {
-		culture = swedish
-		religion = protestant
-		size = 50
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 121
 	}
 
-	soldiers = {
-		culture = swedish
-		religion = protestant
-		size = 10
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 13439
 	}
 
-	farmers = {
-		culture = swedish
-		religion = protestant
-		size = 925
-	}
 }
-#Mikkeli (116000/29000 POPS)
 341 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = finnish
-		religion = protestant
-		size = 275
+		religion = animist
+		size= 261
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = finnish
-		religion = protestant
-		size = 1450
+		religion = animist
+		size= 1045
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = finnish
-		religion = protestant
-		size = 275
+		religion = animist
+		size= 170
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = finnish
-		religion = protestant
-		size = 27025
+		religion = animist
+		size= 26
 	}
+
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 219
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 24380
+	}
+
 }
-#Kuopio (152000/38000 POPS)
 342 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = finnish
-		religion = protestant
-		size = 350
+		religion = animist
+		size= 342
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = finnish
-		religion = protestant
-		size = 1850
+		religion = animist
+		size= 1367
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = finnish
-		religion = protestant
-		size = 350
+		religion = animist
+		size= 222
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = finnish
-		religion = protestant
-		size = 34425
+		religion = animist
+		size= 34
 	}
 
-	clergymen = {
+	officers=
+	{
 		culture = finnish
-		religion = orthodox
-		size = 15
+		religion = animist
+		size= 27
 	}
 
-	artisans = {
+	aristocrats=
+	{
 		culture = finnish
-		religion = orthodox
-		size = 50
+		religion = animist
+		size= 287
 	}
 
-	soldiers = {
+	farmers=
+	{
 		culture = finnish
-		religion = orthodox
-		size = 10
+		religion = animist
+		size= 31898
 	}
 
-	farmers = {
-		culture = finnish
-		religion = orthodox
-		size = 925
-	}
 }
-#Finland Region (812000)
-#under the rule of Russia in 1836
-#Helsinki (132000/33000 POPS)
 343 = {
-	officers = {
+	soldiers=
+	{
 		culture = finnish
-		religion = protestant
-		size = 50
+		religion = animist
+		size= 298
 	}
 
-	bureaucrats = {
+	artisans=
+	{
 		culture = finnish
-		religion = protestant
-		size = 150
+		religion = animist
+		size= 1192
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = finnish
-		religion = protestant
-		size = 150
+		religion = animist
+		size= 194
 	}
 
-	artisans = {
+	bureaucrats=
+	{
 		culture = finnish
-		religion = protestant
-		size = 2250
+		religion = animist
+		size= 30
 	}
 
-	soldiers = {
+	officers=
+	{
 		culture = finnish
-		religion = protestant
-		size = 1100
+		religion = animist
+		size= 24
 	}
 
-	farmers = {
+	aristocrats=
+	{
 		culture = finnish
-		religion = protestant
-		size = 19400
+		religion = animist
+		size= 250
 	}
 
-	aristocrats = {
-		culture = swedish
-		religion = protestant
-		size = 350
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 27802
 	}
 
-	bureaucrats = {
-		culture = swedish
-		religion = protestant
-		size = 225
-	}
-
-	officers = {
-		culture = swedish
-		religion = protestant
-		size = 150
-	}
-
-	clergymen = {
-		culture = swedish
-		religion = protestant
-		size = 100
-	}
-
-	artisans = {
-		culture = swedish
-		religion = protestant
-		size = 1750
-	}
-
-	soldiers = {
-		culture = swedish
-		religion = protestant
-		size = 100
-	}
-
-	farmers = {
-		culture = swedish
-		religion = protestant
-		size = 7325
-	}
 }
-#Hameenlinna (44000/11000 POPS)
 344 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = finnish
-		religion = protestant
-		size = 50
+		religion = animist
+		size= 99
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = finnish
-		religion = protestant
-		size = 500
+		religion = animist
+		size= 396
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = finnish
-		religion = protestant
-		size = 100
+		religion = animist
+		size= 64
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = finnish
-		religion = protestant
-		size = 9350
+		religion = animist
+		size= 10
 	}
 
-	aristocrats = {
-		culture = swedish
-		religion = protestant
-		size = 75
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 8
 	}
 
-	clergymen = {
-		culture = swedish
-		religion = protestant
-		size = 25
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 83
 	}
 
-	artisans = {
-		culture = swedish
-		religion = protestant
-		size = 75
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 9240
 	}
 
-	soldiers = {
-		culture = swedish
-		religion = protestant
-		size = 25
-	}
-
-	farmers = {
-		culture = swedish
-		religion = protestant
-		size = 800
-	}
 }
-#Turku (280000/70000 POPS)
 345 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = finnish
-		religion = protestant
-		size = 575
+		religion = animist
+		size= 639
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = finnish
-		religion = protestant
-		size = 2950
+		religion = animist
+		size= 2558
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = finnish
-		religion = protestant
-		size = 1100
+		religion = animist
+		size= 416
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = finnish
-		religion = protestant
-		size = 54475
+		religion = animist
+		size= 64
 	}
 
-	aristocrats = {
-		culture = swedish
-		religion = protestant
-		size = 950
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 51
 	}
 
-	clergymen = {
-		culture = swedish
-		religion = protestant
-		size = 100
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 537
 	}
 
-	artisans = {
-		culture = swedish
-		religion = protestant
-		size = 550
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 59680
 	}
 
-	soldiers = {
-		culture = swedish
-		religion = protestant
-		size = 125
-	}
-
-	farmers = {
-		culture = swedish
-		religion = protestant
-		size = 10225
-	}
 }
-#Vaasa (272000/68000 POPS)
 346 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = finnish
-		religion = protestant
-		size = 475
+		religion = animist
+		size= 615
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = finnish
-		religion = protestant
-		size = 2600
+		religion = animist
+		size= 2459
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = finnish
-		religion = protestant
-		size = 1100
+		religion = animist
+		size= 400
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = finnish
-		religion = protestant
-		size = 47925
+		religion = animist
+		size= 61
 	}
 
-	aristocrats = {
-		culture = swedish
-		religion = protestant
-		size = 1100
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 49
 	}
 
-	clergymen = {
-		culture = swedish
-		religion = protestant
-		size = 150
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 516
 	}
 
-	artisans = {
-		culture = swedish
-		religion = protestant
-		size = 1100
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 57370
 	}
 
-	soldiers = {
-		culture = swedish
-		religion = protestant
-		size = 175
-	}
-
-	farmers = {
-		culture = swedish
-		religion = protestant
-		size = 13675
-	}
 }
-#Tampere (84000/21000 POPS)
 347 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = finnish
-		religion = protestant
-		size = 150
+		religion = animist
+		size= 190
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = finnish
-		religion = protestant
-		size = 1100
+		religion = animist
+		size= 760
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = finnish
-		religion = protestant
-		size = 200
+		religion = animist
+		size= 123
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = finnish
-		religion = protestant
-		size = 18650
+		religion = animist
+		size= 19
 	}
 
-	aristocrats = {
-		culture = swedish
-		religion = protestant
-		size = 250
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 15
 	}
 
-	clergymen = {
-		culture = swedish
-		religion = protestant
-		size = 25
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 160
 	}
 
-	artisans = {
-		culture = swedish
-		religion = protestant
-		size = 100
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 17723
 	}
 
-	soldiers = {
-		culture = swedish
-		religion = protestant
-		size = 25
-	}
-
-	farmers = {
-		culture = swedish
-		religion = protestant
-		size = 600
-	}
 }
-#Svealand Region (11000)
-#under the rule of Russia in 1836
-#Aland Islands (11000 POPS)
 348 = {
-	clergymen = {
+	soldiers=
+	{
 		culture = swedish
-		religion = protestant
-		size = 35
+		religion = animist
+		size= 25
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = swedish
-		religion = protestant
-		size = 150
+		religion = animist
+		size= 99
 	}
 
-	soldiers = {
+	clergymen=
+	{
 		culture = swedish
-		religion = protestant
-		size = 25
+		religion = animist
+		size= 16
 	}
 
-	farmers = {
+	bureaucrats=
+	{
 		culture = swedish
-		religion = protestant
-		size = 2390
+		religion = animist
+		size= 2
 	}
 
-	clergymen = {
-		culture = finnish
-		religion = protestant
-		size = 5
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 2
 	}
 
-	artisans = {
-		culture = finnish
-		religion = protestant
-		size = 10
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 21
 	}
 
-	soldiers = {
-		culture = finnish
-		religion = protestant
-		size = 5
-	}
-
-	farmers = {
-		culture = finnish
-		religion = protestant
-		size = 130
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 2310
 	}
 
 }

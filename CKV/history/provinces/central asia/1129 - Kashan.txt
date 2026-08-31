@@ -1,5 +1,8 @@
-owner = BUK
-controller = BUK
-add_core = BUK
+owner=QOM
+controller=QOM
+add_core=PER
+add_core=QOM
+add_core=TRX
 trade_goods = wool
 life_rating = 35
+terrain = hills

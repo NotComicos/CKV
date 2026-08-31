@@ -1,6 +1,8 @@
-owner = BUL
-controller = BUL
-add_core = BUL
+owner=HUN
+controller=HUN
+add_core=HUN
+add_core=SLV
+add_core=WSF
 trade_goods = fruit
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+terrain = farmlands

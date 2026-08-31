@@ -1,384 +1,436 @@
-#Trarza-Brakna Region (276000) 
-#uncolonized in 1836/ruled by Emir of Trarza
-#Nouakchott (92000/23000 POPS) 
 1775 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = maures
 		religion = sunni
-		size = 450
+		size= 450
 	}
 
-	bureaucrats = {
+	bureaucrats=
+	{
 		culture = maures
 		religion = sunni
-		size = 20
+		size= 20
 	}
 
-	officers = {
+	officers=
+	{
 		culture = maures
 		religion = sunni
-		size = 5
+		size= 5
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = maures
 		religion = sunni
-		size = 225
+		size= 225
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = maures
 		religion = sunni
-		size = 925
+		size= 925
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = maures
 		religion = sunni
-		size = 250
+		size= 250
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = maures
 		religion = sunni
-		size = 18125
+		size= 18125
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = african_minor
 		religion = animist
-		size = 3000
+		size= 3000
 	}
+
 }
-#Rosso (72000/18000 POPS) 
 1776 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = maures
 		religion = sunni
-		size = 350
+		size= 350
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = maures
 		religion = sunni
-		size = 175
+		size= 175
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = maures
 		religion = sunni
-		size = 900
+		size= 900
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = maures
 		religion = sunni
-		size = 175
+		size= 175
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = maures
 		religion = sunni
-		size = 11400
+		size= 11400
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = african_minor
 		religion = animist
-		size = 5000
+		size= 5000
 	}
+
 }
-#uncolonized in 1836/ruled by Emir of Brakna  
-#Aleg (84000/21000 POPS) 
 1777 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = maures
 		religion = sunni
-		size = 390
+		size= 390
 	}
 
-	bureaucrats = {
+	bureaucrats=
+	{
 		culture = maures
 		religion = sunni
-		size = 10
+		size= 10
 	}
 
-	officers = {
+	officers=
+	{
 		culture = maures
 		religion = sunni
-		size = 5
+		size= 5
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = maures
 		religion = sunni
-		size = 200
+		size= 200
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = maures
 		religion = sunni
-		size = 850
+		size= 850
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = maures
 		religion = sunni
-		size = 220
+		size= 220
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = maures
 		religion = sunni
-		size = 13325
+		size= 13325
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = african_minor
 		religion = animist
-		size = 6000
+		size= 6000
 	}
+
 }
-#Maghama (28000/7000 POPS) 
 1778 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = maures
 		religion = sunni
-		size = 100
+		size= 100
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = maures
 		religion = sunni
-		size = 75
+		size= 75
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = maures
 		religion = sunni
-		size = 275
+		size= 275
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = maures
 		religion = sunni
-		size = 75
+		size= 75
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = maures
 		religion = sunni
-		size = 3475
+		size= 3475
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = african_minor
 		religion = animist
-		size = 3000
+		size= 3000
 	}
+
 }
-#Adrar-Hodh Region (52000) 
-#uncolonized in 1836/ruled by Emirs of Adrar
-#Shingit (12000/3000 POPS) 
 1779 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = maures
 		religion = sunni
-		size = 40
+		size= 40
 	}
 
-	bureaucrats = {
+	bureaucrats=
+	{
 		culture = maures
 		religion = sunni
-		size = 3
+		size= 3
 	}
 
-	officers = {
+	officers=
+	{
 		culture = maures
 		religion = sunni
-		size = 7
+		size= 7
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = maures
 		religion = sunni
-		size = 75
+		size= 75
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = maures
 		religion = sunni
-		size = 150
+		size= 150
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = maures
 		religion = sunni
-		size = 25
+		size= 25
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = maures
 		religion = sunni
-		size = 2700
+		size= 2700
 	}
+
 }
-#Tichit (12000/3000 POPS) 
 1780 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = maures
 		religion = sunni
-		size = 50
+		size= 50
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = maures
 		religion = sunni
-		size = 75
+		size= 75
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = maures
 		religion = sunni
-		size = 150
+		size= 150
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = maures
 		religion = sunni
-		size = 25
+		size= 25
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = maures
 		religion = sunni
-		size = 2700
+		size= 2700
 	}
+
 }
-#Walata (28000/7000 POPS) 
 1781 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = maures
 		religion = sunni
-		size = 50
+		size= 50
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = maures
 		religion = sunni
-		size = 75
+		size= 75
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = maures
 		religion = sunni
-		size = 150
+		size= 150
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = maures
 		religion = sunni
-		size = 25
+		size= 25
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = maures
 		religion = sunni
-		size = 2700
+		size= 2700
 	}
 
-	aristocrats = {
+	aristocrats=
+	{
 		culture = mande
 		religion = sunni
-		size = 75
+		size= 75
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = mande
 		religion = sunni
-		size = 100
+		size= 100
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = mande
 		religion = sunni
-		size = 200
+		size= 200
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = mande
 		religion = sunni
-		size = 50
+		size= 50
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = mande
 		religion = sunni
-		size = 3675
+		size= 3675
 	}
+
 }
-#Rio de Oro Region (16000) #see West Sahara.txt for balance of region
-#uncolonized in 1836  
-#Bir Maghrein (16000/4000 POPS) #now part of Mauritania 
 1782 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 10
+		size= 10
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 15
+		size= 15
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size= 50
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 25
+		size= 25
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = bedouin
 		religion = sunni
-		size = 900
+		size= 900
 	}
 
-	aristocrats = {
+	aristocrats=
+	{
 		culture = maures
 		religion = sunni
-		size = 50
+		size= 50
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = maures
 		religion = sunni
-		size = 75
+		size= 75
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = maures
 		religion = sunni
-		size = 150
+		size= 150
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = maures
 		religion = sunni
-		size = 25
+		size= 25
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = maures
 		religion = sunni
-		size = 2700
+		size= 2700
 	}
 
 }

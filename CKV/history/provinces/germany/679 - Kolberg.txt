@@ -1,6 +1,7 @@
-owner = POM
-controller = POM
-add_core = POM
+owner=W20
+controller=W20
+add_core=GER
+add_core=W20
 trade_goods = grain
 life_rating = 40
-1861.1.1 = { railroad = 3 }
+terrain = woods

@@ -1,7 +1,8 @@
-owner = ENG
-controller = ENG
-add_core = MUG
-add_core = HND
+owner=X96
+controller=X79
+add_core=HND
+add_core=W06
+add_core=X96
 trade_goods = cotton
 life_rating = 32
-colonial = 2
+terrain = plains

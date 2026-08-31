@@ -1,5 +1,8 @@
-owner = BUK
-controller = BUK
-add_core = BUK
+owner=X07
+controller=X07
+add_core=PER
+add_core=X07
 trade_goods = cotton
 life_rating = 35
+terrain = hills
+fort = 2

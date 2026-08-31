@@ -1,7 +1,13 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = BYE
-add_core = PLC
+owner=UKR
+controller=UKR
+add_core=BYE
+add_core=UKR
 trade_goods = cattle
 life_rating = 35
+terrain = marsh
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

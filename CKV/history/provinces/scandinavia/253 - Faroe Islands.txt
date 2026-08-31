@@ -1,2 +1,8 @@
+owner=W18
+controller=W18
+add_core=ICL
+add_core=SCA
+add_core=W18
 trade_goods = fish
-life_rating = 1
+life_rating = 35
+terrain = plains

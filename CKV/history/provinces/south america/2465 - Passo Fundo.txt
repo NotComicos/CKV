@@ -1,5 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner=GRI
+controller=GRI
+add_core=GRI
 trade_goods = tobacco
 life_rating = 35
+terrain = plains

@@ -1,5 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = RUS
+owner=X69
+controller=X69
+add_core=X69
 trade_goods = iron
 life_rating = 35
+terrain = forest

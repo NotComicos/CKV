@@ -1,5 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner=ZAP
+controller=ZAP
+add_core=ZAP
 trade_goods = cotton
 life_rating = 30
+terrain = plains

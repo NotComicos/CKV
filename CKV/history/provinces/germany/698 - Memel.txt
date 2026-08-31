@@ -1,6 +1,8 @@
-owner = LIT
-controller = LIT
-add_core = LIT
+owner=W25
+controller=W25
+add_core=LIT
+add_core=UBD
+add_core=W25
 trade_goods = fish
 life_rating = 40
-1861.1.1 = { railroad = 3 }
+terrain = plains

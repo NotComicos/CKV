@@ -1,169 +1,193 @@
-#Nyasaland Region (368000)  
-#uncolonized in 1836/dominated by the Yao
-#Zomba (208000/52000 POPS) 
 2066 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = chewa
 		religion = animist
-		size = 550
+		size= 550
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = chewa
 		religion = animist
-		size = 300
+		size= 300
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = chewa
 		religion = animist
-		size = 1450
+		size= 1450
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = chewa
 		religion = animist
-		size = 300
+		size= 300
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = chewa
 		religion = animist
-		size = 26400
+		size= 26400
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = chewa
 		religion = animist
-		size = 3000
+		size= 3000
 	}
 
-	aristocrats = {
+	aristocrats=
+	{
 		culture = lomwe
 		religion = animist
-		size = 275
+		size= 275
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = lomwe
 		religion = animist
-		size = 150
+		size= 150
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = lomwe
 		religion = animist
-		size = 750
+		size= 750
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = lomwe
 		religion = animist
-		size = 150
+		size= 150
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = lomwe
 		religion = animist
-		size = 13675
+		size= 13675
 	}
 
-	aristocrats = {
+	aristocrats=
+	{
 		culture = yao
 		religion = animist
-		size = 125
+		size= 125
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = yao
 		religion = animist
-		size = 75
+		size= 75
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = yao
 		religion = animist
-		size = 400
+		size= 400
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = yao
 		religion = animist
-		size = 100
+		size= 100
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = yao
 		religion = animist
-		size = 4275
+		size= 4275
 	}
+
 }
-#Lilongwe (160000/40000 POPS)/dominated by Kazembe 
 2067 = {
-	aristocrats = {
+	aristocrats=
+	{
 		culture = chewa
 		religion = animist
-		size = 350
+		size= 350
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = chewa
 		religion = animist
-		size = 200
+		size= 200
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = chewa
 		religion = animist
-		size = 950
+		size= 950
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = chewa
 		religion = animist
-		size = 200
+		size= 200
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = chewa
 		religion = animist
-		size = 17300
+		size= 17300
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = chewa
 		religion = animist
-		size = 4000
+		size= 4000
 	}
 
-	aristocrats = {
+	aristocrats=
+	{
 		culture = lunda
 		religion = animist
-		size = 400
+		size= 400
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = lunda
 		religion = animist
-		size = 200
+		size= 200
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = lunda
 		religion = animist
-		size = 850
+		size= 850
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = lunda
 		religion = animist
-		size = 225
+		size= 225
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = lunda
 		religion = animist
-		size = 15125
+		size= 15125
 	}
 
 }

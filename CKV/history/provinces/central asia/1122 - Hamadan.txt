@@ -1,5 +1,7 @@
-owner = JIB
-controller = JIB
-add_core = JIB
+owner=QOM
+controller=QOM
+add_core=PER
+add_core=QOM
 trade_goods = fruit
 life_rating = 35
+terrain = mountain

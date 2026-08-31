@@ -1,5 +1,7 @@
-owner = BHU
-controller = BHU
-add_core = BHU
+owner=W48
+controller=X43
+add_core=TIB
+add_core=W48
 trade_goods = wool
 life_rating = 25
+terrain = mountain

@@ -1,11 +1,8 @@
-owner = SWT
-controller = SWT
-add_core = SWT
-add_core = SCA
+owner=W28
+controller=DEN
+add_core=DEN
+add_core=SCA
+add_core=W28
 trade_goods = fish
 life_rating = 35
-naval_base = 1
-1861.1.1 = { 
-	railroad = 3 
-	naval_base = 2
-}
+terrain = farmlands

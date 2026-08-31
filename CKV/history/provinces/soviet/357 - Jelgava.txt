@@ -1,5 +1,8 @@
-owner = LAT
-controller = LAT
-add_core = LAT
+owner=W42
+controller=W42
+add_core=LAT
+add_core=UBD
+add_core=W42
 trade_goods = cattle
 life_rating = 35
+terrain = farmlands

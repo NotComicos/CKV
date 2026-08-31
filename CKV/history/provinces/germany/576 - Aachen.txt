@@ -1,6 +1,7 @@
-owner = BEL
-controller = BEL
-add_core = BEL
+owner=LOR
+controller=LOR
+add_core=GER
+add_core=LOR
 trade_goods = coal
 life_rating = 40
-1861.1.1 = { railroad = 3 }
+terrain = farmlands

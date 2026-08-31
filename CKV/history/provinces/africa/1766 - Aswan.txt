@@ -1,5 +1,8 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner=X84
+controller=MKA
+add_core=COP
+add_core=X84
 trade_goods = grain
 life_rating = 35
+terrain = desert
+fort = 2

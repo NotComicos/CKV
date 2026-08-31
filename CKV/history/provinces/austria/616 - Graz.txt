@@ -1,6 +1,6 @@
-owner = HUN
-controller = HUN
-add_core = HUN
+owner=GER
+controller=GER
+add_core=GER
 trade_goods = iron
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+terrain = woods

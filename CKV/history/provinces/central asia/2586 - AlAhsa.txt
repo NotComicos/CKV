@@ -1,5 +1,8 @@
-owner = NEJ
-controller = NEJ
-add_core = NEJ
+owner=X24
+controller=ALH
+add_core=ALH
+add_core=ARA
+add_core=X24
 trade_goods = grain
 life_rating = 10
+terrain = desert

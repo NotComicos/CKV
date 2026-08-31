@@ -1,6 +1,7 @@
-owner = SPA
-controller = SPA
-add_core = PHI
+owner=TDO
+controller=TDO
+add_core=PHI
+add_core=TDO
 trade_goods = fish
 life_rating = 30
-colonial = 2
+terrain = plains

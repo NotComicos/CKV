@@ -1,155 +1,188 @@
-#Carinthia-Styria Region (204000) #see Austria.txt for balance of Region
-#under the rule of Austria in 1836  
-#Maribor (204000/51000 POPS) #Part of Slovenia Today
 767 = {
-	aristocrats = {
-		culture = south_german
-		religion = catholic
-		size = 750 
-	}
-	
-	bureaucrats = {
-		culture = south_german
-		religion = catholic
-		size = 250
-	}
-
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 50 
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 1100
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size = 50 
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 3150
-	}
-
-	clergymen = {
+	soldiers=
+	{
 		culture = slovene
 		religion = catholic
-		size = 450
+		size= 471
 	}
 
-	artisans = {
+	craftsmen=
+	{
 		culture = slovene
 		religion = catholic
-		size = 1600
+		size= 8170
 	}
 
-	soldiers = {
+	artisans=
+	{
 		culture = slovene
 		religion = catholic
-		size = 450 
+		size= 1885
 	}
 
-	farmers = {
+	clergymen=
+	{
 		culture = slovene
 		religion = catholic
-		size = 43500
+		size= 306
 	}
+
+	clerks=
+	{
+		culture = slovene
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 47
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 38
+	}
+
+	capitalists=
+	{
+		culture = slovene
+		religion = catholic
+		size= 312
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 396
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 33997
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = catholic
+		size= 1000
+	}
+
 }
-#Carniola Region (460000)  
-#under the rule of Austria in 1836  
-#Ljubljana (280000/70000 POPS) 
 768 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = slovene
 		religion = catholic
-		size = 825
+		size= 631
 	}
 
-	bureaucrats = {
+	artisans=
+	{
 		culture = slovene
 		religion = catholic
-		size = 225
+		size= 2524
 	}
 
-	officers = {
+	clergymen=
+	{
 		culture = slovene
 		religion = catholic
-		size = 100
+		size= 410
 	}
 
-	clergymen = {
+	bureaucrats=
+	{
 		culture = slovene
 		religion = catholic
-		size = 700
+		size= 63
 	}
 
-	artisans = {
+	officers=
+	{
 		culture = slovene
 		religion = catholic
-		size = 4000
+		size= 50
 	}
 
-	soldiers = {
+	aristocrats=
+	{
 		culture = slovene
 		religion = catholic
-		size = 1100
+		size= 530
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = slovene
 		religion = catholic
-		size = 63150
+		size= 58882
 	}
+
 }
-#Postojna (180000/45000 POPS) 
 769 = {
-	aristocrats = {
-		culture = slovene
+	soldiers=
+	{
+		culture = lombard
 		religion = catholic
-		size = 500
+		size= 410
 	}
 
-	clergymen = {
-		culture = slovene
+	artisans=
+	{
+		culture = lombard
 		religion = catholic
-		size = 425
+		size= 1639
 	}
 
-	artisans = {
-		culture = slovene
+	clergymen=
+	{
+		culture = lombard
 		religion = catholic
-		size = 2100
+		size= 266
 	}
 
-	soldiers = {
-		culture = slovene
+	bureaucrats=
+	{
+		culture = lombard
 		religion = catholic
-		size = 425
+		size= 41
 	}
 
-	farmers = {
-		culture = slovene
+	officers=
+	{
+		culture = lombard
 		religion = catholic
-		size = 39575
+		size= 33
 	}
 
-	clergymen = {
-		culture = south_german
+	aristocrats=
+	{
+		culture = lombard
 		religion = catholic
-		size = 25
+		size= 344
 	}
 
-	farmers = {
-		culture = south_german
+	farmers=
+	{
+		culture = lombard
 		religion = catholic
-		size = 1975
+		size= 37739
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = catholic
+		size= 500
 	}
 
 }

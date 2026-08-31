@@ -1,42 +1,51 @@
-capital = 703 #Krakow
+capital = 703
 primary_culture = polish
-culture = lithuanian
+culture = zzz_religion_catholic
 religion = catholic
 government = hms_government
-plurality = 0.5
+plurality = 0
 nationalvalue = nv_equality
-literacy = 0.5
+literacy = 0
+
 civilized = yes
 
-
-# Political reforms
-slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = wealth_weighted_voting
-public_meetings = yes_meeting
-press_rights = censored_press
-trade_unions = non_socialist
-voting_system = first_past_the_post
-political_parties = gerrymandering
-
 # Social Reforms
-wage_reform = trinket_wage
+wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
-health_care = trinket_health_care
-unemployment_subsidies = trinket_subsidies
-pensions = trinket_pensions 
-school_reforms = low_schools
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# political reforms
+slavery=yes_slavery
+vote_franschise=landed_voting
+upper_house_composition=appointed
+voting_system=jefferson_method
+public_meetings=no_meeting
+press_rights=censored_press
+trade_unions=state_controlled
+political_parties=harassment
 
 ruling_party = PLC_conservative
-upper_house = {
+upper_house = 
+{
 	fascist = 0
-	liberal = 30
-	conservative = 40
-	reactionary = 25
-	anarcho_liberal = 5
+	liberal = 25
+	conservative = 65
+	reactionary = 10
+	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
 
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness= 0
 
+# Technologies
+prestige=0
+oob = "PLC_OOB.txt"
+set_country_flag = religi
+set_country_flag = vic2_country_PLC

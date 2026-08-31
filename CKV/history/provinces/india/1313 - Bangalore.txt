@@ -1,6 +1,7 @@
-owner = MYS
-controller = MYS
-add_core = MYS
-add_core = HND
+owner=X80
+controller=X80
+add_core=HND
+add_core=X80
 trade_goods = wool
 life_rating = 32
+terrain = woods

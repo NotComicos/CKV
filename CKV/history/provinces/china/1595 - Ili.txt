@@ -1,7 +1,8 @@
-add_core = CHI
-add_core = XIN
+owner=X70
+controller=CHH
+add_core=CHH
+add_core=TKS
+add_core=X70
 trade_goods = sulphur
 life_rating = 32
-
-owner = XIN
-controller = XIN
+terrain = mountain

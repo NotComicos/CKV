@@ -1,11 +1,7 @@
-owner = PAN
-controller = PAN
-add_core = PAN
-add_core = HND
+owner=X96
+controller=X96
+add_core=HND
+add_core=X96
 trade_goods = cotton
 life_rating = 32
-1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	colonial = 2
-}
+terrain = mountain

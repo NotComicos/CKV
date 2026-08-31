@@ -1,5 +1,7 @@
-owner = SLL
-controller = SLL
-add_core = SLL
+owner=X16
+controller=X16
+add_core=SRN
+add_core=X16
 trade_goods = wool
 life_rating = 35
+terrain = plains

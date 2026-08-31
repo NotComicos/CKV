@@ -1,5 +1,9 @@
-owner = RUS
-controller = RUS
-add_core = RUS
+owner=X68
+controller=X68
+add_core=FIN
+add_core=SCA
+add_core=UGR
+add_core=X68
 trade_goods = timber
 life_rating = 35
+terrain = forest

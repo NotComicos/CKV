@@ -1,5 +1,8 @@
-owner = BUK
-controller = BUK
-add_core = BUK
+owner=W00
+controller=W00
+add_core=PER
+add_core=W00
 trade_goods = fruit
 life_rating = 35
+terrain = mountain
+fort = 2

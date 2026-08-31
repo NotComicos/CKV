@@ -1,8 +1,9 @@
-
-add_core = CHI
-add_core = XIN
+owner=W04
+controller=CHH
+add_core=CHH
+add_core=TKS
+add_core=W04
+add_core=XIN
 trade_goods = cotton
 life_rating = 32
-
-owner = XIN
-controller = XIN
+terrain = hills

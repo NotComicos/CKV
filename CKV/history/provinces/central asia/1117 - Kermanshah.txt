@@ -1,5 +1,7 @@
-owner = JIB
-controller = JIB
-add_core = JIB
+owner=QOM
+controller=QOM
+add_core=QOM
+add_core=SRN
 trade_goods = wool
 life_rating = 35
+terrain = hills

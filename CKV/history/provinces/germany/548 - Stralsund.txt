@@ -1,6 +1,7 @@
-owner = NGF
-controller = NGF
-add_core = NGF
-add_core = GER
+owner=X13
+controller=GER
+add_core=GER
+add_core=X13
 trade_goods = fish
 life_rating = 40
+terrain = plains

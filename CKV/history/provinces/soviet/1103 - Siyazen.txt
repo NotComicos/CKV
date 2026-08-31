@@ -1,5 +1,8 @@
-owner = AZB
-controller = AZB
-add_core = AZB
+owner=X94
+controller=X94
+add_core=ARM
+add_core=X94
 trade_goods = fruit
 life_rating = 35
+terrain = hills
+fort = 2

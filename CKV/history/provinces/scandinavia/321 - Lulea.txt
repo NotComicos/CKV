@@ -1,4 +1,8 @@
+owner=W26
+controller=W26
+add_core=SCA
+add_core=SMI
+add_core=W26
 trade_goods = iron
-life_rating = 1
-
-
+life_rating = 35
+terrain = arctic

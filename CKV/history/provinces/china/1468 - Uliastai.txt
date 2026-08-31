@@ -1,6 +1,9 @@
-owner = MGL
-controller = MGL
-add_core = CHI
-add_core = MGL
+owner=LIO
+controller=LIO
+add_core=KHA
+add_core=LIO
+add_core=MGL
+add_core=X76
 trade_goods = grain
 life_rating = 32
+terrain = hills

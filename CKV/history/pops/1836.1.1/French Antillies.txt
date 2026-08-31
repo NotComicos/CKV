@@ -1,133 +1,151 @@
-#French Antilles (319200)
-#Ruled by France 1836
-#Martinique (190800/27450 POPS)
 2228 = {
-	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 750
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 750
 	}
 
-	bureaucrats = {
-		culture = french
-		religion = catholic
-		size = 100
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 100
 	}
 
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 50
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 50
 	}
 
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 900
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 900
 	}
 
-	soldiers = {
-		culture = french
-		religion = catholic
-		size = 250
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 250
 	}
 
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 400
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 400
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = afro_antillean
 		religion = catholic
-		size = 125
+		size= 125
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = afro_antillean
 		religion = catholic
-		size = 1250
+		size= 1250
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = afro_antillean
 		religion = catholic
-		size = 250
+		size= 250
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = afro_antillean
 		religion = catholic
-		size = 3400
+		size= 3400
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = afro_antillean
 		religion = catholic
-		size = 20000
+		size= 20000
 	}
+
 }
-#Guadeloupe (128400/32100 POPS)
 2230 = {
-	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 850
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 850
 	}
 
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 50
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 50
 	}
 
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 1300
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 1300
 	}
 
-	soldiers = {
-		culture = french
-		religion = catholic
-		size = 300
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 300
 	}
 
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 600
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 600
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = afro_antillean
 		religion = catholic
-		size = 150
+		size= 150
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = afro_antillean
 		religion = catholic
-		size = 1500
+		size= 1500
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = afro_antillean
 		religion = catholic
-		size = 300
+		size= 300
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = afro_antillean
 		religion = catholic
-		size = 3050
+		size= 3050
 	}
 
-	slaves = {
+	slaves=
+	{
 		culture = afro_antillean
 		religion = catholic
-		size = 24000
+		size= 24000
 	}
 
 }

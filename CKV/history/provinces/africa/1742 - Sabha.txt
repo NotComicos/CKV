@@ -1,7 +1,7 @@
+owner=FZA
+controller=FZA
+add_core=FZA
 trade_goods = wool
-life_rating = 1
-1861.1.1 = {
-	owner = TUR
-	controller = TUR
-	colonial = 0
-}
+life_rating = 25
+terrain = desert
+fort = 2

@@ -1,6 +1,8 @@
-owner = JAI
-controller = JAI
-add_core = JAI
-add_core = HND
+owner=X79
+controller=X79
+add_core=HND
+add_core=W06
+add_core=X79
 trade_goods = timber
 life_rating = 32
+terrain = plains

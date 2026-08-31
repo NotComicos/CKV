@@ -1,5 +1,6 @@
-owner = BUK
-controller = BUK
-add_core = BUK
+owner=X96
+controller=X96
+add_core=X96
 trade_goods = timber
 life_rating = 35
+terrain = mountain

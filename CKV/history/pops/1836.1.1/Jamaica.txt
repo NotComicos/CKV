@@ -1,85 +1,95 @@
-#Jamaica Region - 384000
-#Ruled by Britain 1836
-#Jamaica (372000/93000 POPS)
 2217 = {
-	aristocrats = {
-		culture = british
-		religion = protestant
-		size = 100
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 100
 	}
 
-	bureaucrats = {
-		culture = british
-		religion = protestant
-		size = 85
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 85
 	}
 
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 75
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 75
 	}
 
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 2500
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 2500
 	}
 
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 50
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 50
 	}
 
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 2190
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2190
 	}
 
-	clergymen = {
+	clergymen=
+	{
 		culture = afro_caribbean
 		religion = protestant
-		size = 625
+		size= 625
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = afro_caribbean
 		religion = protestant
-		size = 2000
+		size= 2000
 	}
 
-	soldiers = {
+	soldiers=
+	{
 		culture = afro_caribbean
 		religion = protestant
-		size = 1100
+		size= 1100
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = afro_caribbean
 		religion = protestant
-		size = 84375
+		size= 84375
 	}
+
 }
-#Cayman Islands : (1200/300 POPS) #still a British Colony
 2218 = {
-	clergymen = {
+	clergymen=
+	{
 		culture = afro_caribbean
 		religion = protestant
-		size = 5
+		size= 5
 	}
 
-	artisans = {
+	artisans=
+	{
 		culture = afro_caribbean
 		religion = protestant
-		size = 15
+		size= 15
 	}
 
-	farmers = {
+	farmers=
+	{
 		culture = afro_caribbean
 		religion = protestant
-		size = 280
+		size= 280
 	}
 
 }

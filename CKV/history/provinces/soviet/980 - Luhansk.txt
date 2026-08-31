@@ -1,5 +1,7 @@
-owner = CRI
-controller = CRI
-add_core = CRI
+owner=X72
+controller=X72
+add_core=PCH
+add_core=X72
 trade_goods = cattle
 life_rating = 35
+terrain = steppe

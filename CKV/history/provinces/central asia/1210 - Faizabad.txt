@@ -1,5 +1,7 @@
-owner = BUK
-controller = BUK
-add_core = BUK
+owner=X96
+controller=X61
+add_core=PER
+add_core=X96
 trade_goods = wool
 life_rating = 35
+terrain = hills

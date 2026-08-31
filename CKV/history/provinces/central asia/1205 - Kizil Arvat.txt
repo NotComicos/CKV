@@ -1,10 +1,7 @@
-owner = BUK
-controller = BUK
-add_core = BUK
+owner=X74
+controller=X74
+add_core=TKS
+add_core=X74
 trade_goods = grain
 life_rating = 35
-1861.1.1 = {
-	owner = RUS
-	controller = RUS
-	colonial = 2
-}
+terrain = steppe

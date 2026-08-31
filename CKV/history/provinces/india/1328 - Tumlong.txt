@@ -1,6 +1,7 @@
-owner = SIK
-controller = SIK
-add_core = SIK
-add_core = HND
+owner=UTS
+controller=UTS
+add_core=HND
+add_core=UTS
 trade_goods = wool
 life_rating = 25
+terrain = mountain

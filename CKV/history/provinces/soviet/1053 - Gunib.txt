@@ -1,5 +1,7 @@
-owner = CRI
-controller = CRI
-add_core = CRI
+owner=X94
+controller=AKH
+add_core=ALN
+add_core=X94
 trade_goods = silk
 life_rating = 35
+terrain = hills

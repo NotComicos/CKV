@@ -1,5 +1,8 @@
-owner = SIA
-controller = SIA
-add_core = SIA
+owner=LGR
+controller=LGR
+add_core=IDO
+add_core=LGR
+add_core=SIA
 trade_goods = timber
 life_rating = 30
+terrain = hills

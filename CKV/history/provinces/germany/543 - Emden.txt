@@ -1,7 +1,8 @@
-owner = NGF
-controller = NGF
-add_core = NGF
-add_core = GER
+owner=GER
+controller=GER
+add_core=BEL
+add_core=FLA
+add_core=GER
 trade_goods = fish
 life_rating = 40
-1861.1.1 = { railroad = 3 }
+terrain = plains

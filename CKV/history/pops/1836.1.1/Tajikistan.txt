@@ -1,161 +1,153 @@
-#Mawarannahr Region (200000) #see Kazakhstan.txt, Uzbekistan.txt, Kirghizstan.txt and Turkmenistan.txt for balance of region 
-#under the rule of Kokand in 1836  
-#Khujand (200000/50000 POPS) #now part of Tajikistan  
 1201 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = uzbek
-		religion = sunni
-		size = 775
+		religion = zoroastrian_heresy
+		size= 450
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = uzbek
-		religion = sunni
-		size = 400
+		religion = zoroastrian_heresy
+		size= 1800
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = uzbek
-		religion = sunni
-		size = 2000
+		religion = zoroastrian_heresy
+		size= 293
 	}
 
-	soldiers = {
+	bureaucrats=
+	{
 		culture = uzbek
-		religion = sunni
-		size = 400
+		religion = zoroastrian_heresy
+		size= 23
 	}
 
-	farmers = {
+	officers=
+	{
 		culture = uzbek
-		religion = sunni
-		size = 36425
+		religion = zoroastrian_heresy
+		size= 36
 	}
 
-	aristocrats = {
-		culture = tajik
-		religion = sunni
-		size = 175
+	aristocrats=
+	{
+		culture = uzbek
+		religion = zoroastrian_heresy
+		size= 378
 	}
 
-	clergymen = {
-		culture = tajik
-		religion = sunni
-		size = 75
+	farmers=
+	{
+		culture = uzbek
+		religion = zoroastrian_heresy
+		size= 42020
 	}
 
-	artisans = {
-		culture = tajik
-		religion = sunni
-		size = 500
-	}
-
-	soldiers = {
-		culture = tajik
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = tajik
-		religion = sunni
-		size = 9150
-	}
 }
-#Badakhshan Region (212000) 
-#under the rule of Kokand in 1836  
-#Kulob (120000/30000 POPS)   
 1207 = {
-	aristocrats = {
+	soldiers=
+	{
 		culture = tajik
-		religion = sunni
-		size = 575
+		religion = gelugpa
+		size= 270
 	}
 
-	clergymen = {
+	artisans=
+	{
 		culture = tajik
-		religion = sunni
-		size = 275
+		religion = gelugpa
+		size= 1080
 	}
 
-	artisans = {
+	clergymen=
+	{
 		culture = tajik
-		religion = sunni
-		size = 1450
+		religion = gelugpa
+		size= 176
 	}
 
-	soldiers = {
+	bureaucrats=
+	{
 		culture = tajik
-		religion = sunni
-		size = 250
+		religion = gelugpa
+		size= 14
 	}
 
-	farmers = {
+	officers=
+	{
 		culture = tajik
-		religion = sunni
-		size = 27450
+		religion = gelugpa
+		size= 22
 	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = gelugpa
+		size= 227
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = gelugpa
+		size= 25211
+	}
+
 }
-#Khorugh (92000/23000 POPS)   
 1208 = {
-	aristocrats = {
-		culture = tajik
-		religion = sunni
-		size = 350
+	soldiers=
+	{
+		culture = persian
+		religion = gelugpa
+		size= 208
 	}
 
-	clergymen = {
-		culture = tajik
-		religion = sunni
-		size = 175
+	artisans=
+	{
+		culture = persian
+		religion = gelugpa
+		size= 828
 	}
 
-	artisans = {
-		culture = tajik
-		religion = sunni
-		size = 850
+	clergymen=
+	{
+		culture = persian
+		religion = gelugpa
+		size= 134
 	}
 
-	soldiers = {
-		culture = tajik
-		religion = sunni
-		size = 175
+	bureaucrats=
+	{
+		culture = persian
+		religion = gelugpa
+		size= 10
 	}
 
-	farmers = {
-		culture = tajik
-		religion = sunni
-		size = 17450
+	officers=
+	{
+		culture = persian
+		religion = gelugpa
+		size= 16
 	}
 
-	aristocrats = {
-		culture = kirgiz
-		religion = sunni
-		size = 75
+	aristocrats=
+	{
+		culture = persian
+		religion = gelugpa
+		size= 174
 	}
 
-	clergymen = {
-		culture = kirgiz
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = kirgiz
-		religion = sunni
-		size = 175
-	}
-
-	soldiers = {
-		culture = kirgiz
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = kirgiz
-		religion = sunni
-		size = 3650
+	farmers=
+	{
+		culture = persian
+		religion = gelugpa
+		size= 19330
 	}
 
 }
